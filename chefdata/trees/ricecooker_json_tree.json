@@ -9168,6 +9168,57 @@
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/girlswriting_13.jpg",
           "children": [
             {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-1-pdf/3m1.assessments.pdf",
+              "title": "Grade 3 Module 1",
+              "description": "Grade 3 Module 1",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-1-pdf/3m1.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-1-pdf/3m1.overview.pdf",
+              "title": "Grade 3 Module 1",
+              "description": "Grade 3 Module 1",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-1-pdf/3m1.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-1-pdf/3m1.performance.pdf",
+              "title": "Grade 3 Module 1",
+              "description": "Grade 3 Module 1",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-1-pdf/3m1.performance.pdf"
+                }
+              ]
+            },
+            {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-3-ela-module-1-unit-1",
               "title": "Unit 1",
@@ -10499,6 +10550,57 @@
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/smilingchildren_5.jpg",
           "children": [
             {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-2a-pdf/3m2a.module.pdf",
+              "title": "Grade 3 Module 2A Overview",
+              "description": "Grade 3 Module 2A Overview",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-2a-pdf/3m2a.module.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-2a-pdf/3m2a.assessments.pdf",
+              "title": "Grade 3 Module 2A",
+              "description": "Grade 3 Module 2A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-2a-pdf/3m2a.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-2a-pdf/3m2a.performance.pdf",
+              "title": "Grade 3 Module 2A",
+              "description": "Grade 3 Module 2A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-2a-pdf/3m2a.performance.pdf"
+                }
+              ]
+            },
+            {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-3-ela-module-2a-unit-1",
               "title": "Unit 1",
@@ -11665,6 +11767,57 @@
           "description": "Researching to Build Knowledge and Teaching Others: Connecting Literary and Informational Texts to Study Culture \u201cThen and Now\u201d In this module, students will use literacy skills to build expertise\u2014using reading, writing, listening, speaking, and collaborative skills to build and share deep knowledge about a topic. This focus on research intentionally builds on Module 1, in which students explored the superpowers of reading. Specifically, students will seek evidence of culture, which can be thought of as the story of a group of people constructed through the generations; it can be evidenced through ancient and modern-day customs and traditions. The module will begin with a class study of the culture of Japan: Students will read Magic Tree House: Dragon of the Red Dawn, a book set in ancient Japan, paired with Exploring Countries: Japan, an informational text about modern Japan. Unit 2 follows a similar pattern, but students work with increasing independence. They will form book clubs to build expertise on a different country\u2014reading a new Magic Tree House book set in their selected country, paired with a new Exploring Countries informational text to learn about that country\u2019s culture. Students expand their definition of culture to include more than just customs and traditions In Unit 3, students will demonstrate their expertise about how customs and traditions help us learn about culture by writing a research-based letter to Magic Tree House author Mary Pope Osborne that informs Ms. Osborne of customs and traditions that have endured in a culture from ancient to modern time. This task addresses NYSP12 ELA CCLS W.3.2, W.3.4, W.3.5, W.3.7, W.3.8, L.3.1h, L.3.1i, L.3.2f, and L.3.3a.",
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/twostudentsatcomputer_22.jpg",
           "children": [
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-2b-pdf/3m2b.assessment.pdf",
+              "title": "Grade 3 Module 2B",
+              "description": "Grade 3 Module 2B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-2b-pdf/3m2b.assessment.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-2b-pdf/3m2b.overview.pdf",
+              "title": "Grade 3 Module 2B",
+              "description": "Grade 3 Module 2B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-2b-pdf/3m2b.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-2b-pdf/3m2b.performance.pdf",
+              "title": "Grade 3 Module 2B",
+              "description": "Grade 3 Module 2B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-2b-pdf/3m2b.performance.pdf"
+                }
+              ]
+            },
             {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-3-ela-module-2b-unit-1",
@@ -13050,6 +13203,57 @@
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/girlreadinginclassroom_17.jpg",
           "children": [
             {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-3a-pdf/3m3a.assessments.pdf",
+              "title": "Grade 3 Module 3A",
+              "description": "Grade 3 Module 3A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-3a-pdf/3m3a.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-3a-pdf/3m3a.overview.pdf",
+              "title": "Grade 3 Module 3A",
+              "description": "Grade 3 Module 3A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-3a-pdf/3m3a.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-3a-pdf/3m3a.performance.pdf",
+              "title": "Grade 3 Module 3A",
+              "description": "Grade 3 Module 3A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-3a-pdf/3m3a.performance.pdf"
+                }
+              ]
+            },
+            {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-3-ela-module-3a-unit-1",
               "title": "Unit 1",
@@ -14279,6 +14483,57 @@
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/elemstudentsreadinginlibrary_8.jpg",
           "children": [
             {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-3b-pdf/3m3b.assessments.pdf",
+              "title": "Grade 3 Module 3B",
+              "description": "Grade 3 Module 3B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-3b-pdf/3m3b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-3b-pdf/3m3b.overview.pdf",
+              "title": "Grade 3 Module 3B",
+              "description": "Grade 3 Module 3B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-3b-pdf/3m3b.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-3b-pdf/3m3b.performance.pdf",
+              "title": "Grade 3 Module 3B",
+              "description": "Grade 3 Module 3B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-3b-pdf/3m3b.performance.pdf"
+                }
+              ]
+            },
+            {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-3-ela-module-3b-unit-1",
               "title": "Unit 1",
@@ -15445,6 +15700,57 @@
           "description": "This module focuses on the importance of clean freshwater around the world. Using the children\u2019s book One Well: The Story of Water on Earth as an anchor text, this unit builds on the background knowledge students developed in second grade regarding cycles in nature, in order to help them deepen their understanding of their overall dependence on earth\u2019s limited water supply. Unit 3 VoiceThread Model Recording \tWatch here or download the zip file from the Downloadable Resources section below",
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/childrenatschool_41.jpg",
           "children": [
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-4-pdf/3m4.assessments.pdf",
+              "title": "Grade 3 Module 4",
+              "description": "Grade 3 Module 4",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-4-pdf/3m4.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-4-pdf/3m4.overview.pdf",
+              "title": "Grade 3 Module 4",
+              "description": "Grade 3 Module 4",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-4-pdf/3m4.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-4-pdf/3m4.performance.pdf",
+              "title": "Grade 3 Module 4",
+              "description": "Grade 3 Module 4",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-4-pdf/3m4.performance.pdf"
+                }
+              ]
+            },
             {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-3-ela-module-4-unit-1",
@@ -16754,6 +17060,40 @@
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/girlatcomputer_27.jpg",
           "children": [
             {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-4-ela-module-1a-pdf/4m1a.module.pdf",
+              "title": "Grade 4 Module 1A Overview",
+              "description": "Grade 4 Module 1A Overview",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-4-ela-module-1a-pdf/4m1a.module.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-4-ela-module-1a-pdf/4M1A.texts.pdf",
+              "title": "Grade 4 ",
+              "description": "Grade 4 ",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-4-ela-module-1a-pdf/4M1A.texts.pdf"
+                }
+              ]
+            },
+            {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-4-ela-module-1a-unit-1",
               "title": "Unit 1",
@@ -17755,6 +18095,57 @@
           "description": "In this eight-week module, students will learn about poetry and poets through close reading and writing to learn. Throughout the module, they will determine the characteristics of poetry and consider what inspires writers and poets. Students begin in Unit 1 by reading the first half of the novel Love That Dog by Sharon Creech. Students follow the main character, Jack, as he learns about poetry and begins to write his own. Students closely read and analyze poems Jack reads, including \u201cThe Red Wheelbarrow\u201d by William Carlos Williams and \u201cStopping by Woods on a Snowing Evening\u201d by Robert Frost. Throughout this unit, students track what Jack is learning about poetry alongside their own learning though these close readings. They also experiment with writing their own poetry inspired by their reading. Students practice summarizing the events in the novel and discuss how the main character\u2019s attitude toward poetry begins to change in this half of the novel. In Unit 2, students engage in deeper analysis of Jack\u2019s character and his inspiration through extended discussion prompts. They also learn to write informational paragraphs in order to summarize larger portions of the text. For the mid-unit 2 assessment, they write a summary of the entire novel. After completing the novel, students consider which of the poems they read inspired them the most and select a poet to study more deeply. In the last half of Unit 2, students read and analyze poems by their selected poet and engage in a poetry workshop to write an original poem inspired by their selected poet. Finally, in Unit 3, students prepare for their three-part performance task, a Poet\u2019s Performance, in which students read aloud a poem by their selected poet, share an essay about the poet, and read their original inspired poem. In this unit, students are introduced to biography though reading River of Words: The Story of William Carlos Williams. They then closely read a biography about their own poet. Then students learn to write an essay about their selected poet through engaging in a shared writing of an essay about William Carlos Williams. As the class writes each part of this shared essay (introduction, body, and conclusion), students complete their own essays one section at a time. Throughout this unit, students practice reading their poems aloud clearly and with expression. Once students\u2019 essays are complete, they finish the module by presenting their poems and essay during the performance task.",
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/elementaryschoolgirls_6.jpg",
           "children": [
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-g4-m1b-pdf/4m1b.assessments.pdf",
+              "title": "Grade 4 Module 1B",
+              "description": "Grade 4 Module 1B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-g4-m1b-pdf/4m1b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-g4-m1b-pdf/4m1b.overview.pdf",
+              "title": "Grade 4 Module 1B",
+              "description": "Grade 4 Module 1B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-g4-m1b-pdf/4m1b.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-g4-m1b-pdf/4m1b.performance.pdf",
+              "title": "Grade 4 Module 1B",
+              "description": "Grade 4 Module 1B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-g4-m1b-pdf/4m1b.performance.pdf"
+                }
+              ]
+            },
             {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-4-ela-module-1b-unit-1",
@@ -18891,6 +19282,57 @@
           "description": "Researching to Build Knowledge and Teaching Others: Interdependent Roles in Colonial Times Students learn about what life was like in Colonial America. They go on to study the many roles people played in a colonial settlement and how necessary their interdependence was for survival. Students select one role to explore more deeply through various forms of nonfiction texts. With an emphasis on making inferences, summarizing informational text, basic research (note-taking and pulling together information from a variety of texts), this module will foster students\u2019 abilities to synthesize information from multiple sources and integrate research into their writing. At the end of the module, students participate in several critique experiences during the revision process as they write a research-based narrative that vividly describes an event in a colonist\u2019s life.",
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/studentslistening_32.jpg",
           "children": [
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-4-ela-module-2a-pdf/4m2a.module.pdf",
+              "title": "Grade 4 Module 2A Overview",
+              "description": "Grade 4 Module 2A Overview",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-4-ela-module-2a-pdf/4m2a.module.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-4-ela-module-2a-pdf/4m2a.assessment.pdf",
+              "title": "Grade 4 Module 2A",
+              "description": "Grade 4 Module 2A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-4-ela-module-2a-pdf/4m2a.assessment.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-4-ela-module-2a-pdf/4m2a.performance.pdf",
+              "title": "Grade 4 Module 2A",
+              "description": "Grade 4 Module 2A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-4-ela-module-2a-pdf/4m2a.performance.pdf"
+                }
+              ]
+            },
             {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-4-ela-module-2a-unit-1",
@@ -20214,6 +20656,57 @@
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/childrenatschool_46.jpg",
           "children": [
             {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-4-ela-module-2b-pdf/4m2b.assessments.pdf",
+              "title": "Grade 4 Module 2B",
+              "description": "Grade 4 Module 2B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-4-ela-module-2b-pdf/4m2b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-4-ela-module-2b-pdf/4m2b.overview.pdf",
+              "title": "Grade 4 Module 2B",
+              "description": "Grade 4 Module 2B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-4-ela-module-2b-pdf/4m2b.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-4-ela-module-2b-pdf/4m2b.performance.pdf",
+              "title": "Grade 4 Module 2B",
+              "description": "Grade 4 Module 2B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-4-ela-module-2b-pdf/4m2b.performance.pdf"
+                }
+              ]
+            },
+            {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-4-ela-module-2b-unit-1",
               "title": "Unit 1",
@@ -21505,6 +21998,57 @@
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/childrenatschool_47.jpg",
           "children": [
             {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-4-ela-module-3a-pdf/4m3a.assessments.pdf",
+              "title": "Grade 4 Module 3A",
+              "description": "Grade 4 Module 3A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-4-ela-module-3a-pdf/4m3a.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-4-ela-module-3a-pdf/4m3a.overview.pdf",
+              "title": "Grade 4 Module 3A",
+              "description": "Grade 4 Module 3A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-4-ela-module-3a-pdf/4m3a.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-4-ela-module-3a-pdf/4m3a.performance.pdf",
+              "title": "Grade 4 Module 3A",
+              "description": "Grade 4 Module 3A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-4-ela-module-3a-pdf/4m3a.performance.pdf"
+                }
+              ]
+            },
+            {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-4-ela-module-3a-unit-1",
               "title": "Unit 1",
@@ -22641,6 +23185,57 @@
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/middleschoolchildrenreading_0.jpg",
           "children": [
             {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-4-ela-module-3b-pdf/4m3b.assessments.pdf",
+              "title": "Grade 4 Module 3B",
+              "description": "Grade 4 Module 3B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-4-ela-module-3b-pdf/4m3b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-4-ela-module-3b-pdf/4m3b.overview.pdf",
+              "title": "Grade 4 Module 3B",
+              "description": "Grade 4 Module 3B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-4-ela-module-3b-pdf/4m3b.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-4-ela-module-3b-pdf/4m3b.performance.pdf",
+              "title": "Grade 4 Module 3B",
+              "description": "Grade 4 Module 3B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-4-ela-module-3b-pdf/4m3b.performance.pdf"
+                }
+              ]
+            },
+            {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-4-ela-module-3b-unit-1",
               "title": "Unit 1",
@@ -23745,6 +24340,57 @@
           "description": "In this module, students will read, write, and speak about the topic of voting rights and responsibilities. In the first two units, students will read informational texts that focus on the women\u2019s suffrage movement and the leadership of New Yorker Susan B. Anthony. Specifically, they will read firsthand and secondhand accounts of her arrest and trial for voting in a time when women were outlawed from doing so. Students then read The Hope Chest by Karen Schwabach, a historical fiction novel set in the weeks leading up to the passage of the 19th Amendment. They will continue to examine the idea of leaders of change and explore the theme \u201cmaking a difference\u201d by collecting evidence on how selected characters make a difference for others. After completing the novel, students will analyze this theme in selected passages of the novel and write an essay using evidence from the text to support their analysis. In the final unit, students will connect the ideas of \u201cleaders of change\u201d and \u201cmaking a difference\u201d to their own lives by reading about the importance of voting. They will prepare for their performance task, a Public Service Announcement about the importance of voting. To prepare, they will read various informational texts on contemporary voting to build background knowledge and collect evidence for their scripts. They will then write a draft of their script and practice speaking before recording and presenting their Public Service Announcement to peers, their parents, or local high school seniors. This performance task centers on NYSP12 ELA Standards RI.4.9, W.4.1, W.4.4, SL.4.3, SL.4.4, SL.4.5, SL.4.6, L.4.1c and f, and L.4.3. Note: The audio file titled\u00a0Helmet Public Service Announcement is contained within the Zip file of Word documents and it is located in the unit 3 folder. The mp3 file is also available for download below.",
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/childrenansweringquestion_33.jpg",
           "children": [
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-4-ela-module-4-pdf/4m4.assessments.pdf",
+              "title": "Grade 4 Module 4",
+              "description": "Grade 4 Module 4",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-4-ela-module-4-pdf/4m4.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-4-ela-module-4-pdf/4m4.overview.pdf",
+              "title": "Grade 4 Module 4",
+              "description": "Grade 4 Module 4",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-4-ela-module-4-pdf/4m4.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-4-ela-module-4-pdf/4m4.performance.pdf",
+              "title": "Grade 4 Module 4",
+              "description": "Grade 4 Module 4",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-4-ela-module-4-pdf/4m4.performance.pdf"
+                }
+              ]
+            },
             {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-4-ela-module-4-unit-1",
@@ -25056,8 +25702,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-5-ela-module-1-pdf/Module Level Documents/5m1.module.pdf",
-              "title": "Grade 5 Module 1 Module",
-              "description": "Grade 5 Module 1 Module",
+              "title": "Grade 5 Module 1 Overview",
+              "description": "Grade 5 Module 1 Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -25073,8 +25719,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-5-ela-module-1-pdf/Module Level Documents/5m1.assessments.pdf",
-              "title": "Grade 5 Module 1 Assessments",
-              "description": "Grade 5 Module 1 Assessments",
+              "title": "Grade 5 Module 1",
+              "description": "Grade 5 Module 1",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -25090,8 +25736,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-5-ela-module-1-pdf/Module Level Documents/5m1.performance.pdf",
-              "title": "Grade 5 Module 1 Performance",
-              "description": "Grade 5 Module 1 Performance",
+              "title": "Grade 5 Module 1",
+              "description": "Grade 5 Module 1",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -26529,6 +27175,57 @@
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/childrenreading_37.jpg",
           "children": [
             {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-5-ela-module-2a-pdf/5m2a.module.pdf",
+              "title": "Grade 5 Module 2A Overview",
+              "description": "Grade 5 Module 2A Overview",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-5-ela-module-2a-pdf/5m2a.module.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-5-ela-module-2a-pdf/5m2a.assessments.pdf",
+              "title": "Grade 5 Module 2A",
+              "description": "Grade 5 Module 2A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-5-ela-module-2a-pdf/5m2a.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-5-ela-module-2a-pdf/5m2a.performance.pdf",
+              "title": "Grade 5 Module 2A",
+              "description": "Grade 5 Module 2A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-5-ela-module-2a-pdf/5m2a.performance.pdf"
+                }
+              ]
+            },
+            {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-5-ela-module-2a-unit-1",
               "title": "Unit 1",
@@ -27819,6 +28516,57 @@
           "description": "Researching to Build Knowledge and Teaching Others:\u00a0Inventions That Changed People\u2019s Lives In this eight-week module, students learn about new or improved technologies that have been developed to meet societal needs and how those inventions have changed people\u2019s lives. They conduct authentic research to build their own knowledge and teach others through writing. In Unit 1, students read the graphic novel Investigating the Scientific Method with Max Axiom, Super Scientist by Donald B. Lemke as well as several informational articles about inventions that have been developed to meet people\u2019s needs. Students learn about and analyze structures and visual elements authors use to convey complex ideas. Then, they will write a short opinion paragraph about which of the inventions they learned about has been most important to people and why. In Unit 2, students will read The Boy Who Invented TV: The Story of Philo Farnsworth by Kathleen Krull, focusing on how the television was invented to meet societal needs. Students will write an informative essay to explain why Philo Farnsworth wanted to invent television and how TV changed people\u2019s lives. In Unit 3, students are given the choice to conduct research about one of two inventions that were developed to meet societal needs, Garrett A. Morgan\u2019s traffic light or the Wright brothers\u2019 airplane. Students will closely read and collect information about one of these inventions in order to develop a narrative in the form of a graphic novelette that explains why the invention they researched was developed and how it changed people\u2019s lives. This task addresses NYSP12 ELA CCLS R.I.5.9,W.5.2, W.5.3, W.5.4, W.5.5,W.5.6,W.5.7, W.5.8, L.5.3, and L.5.4.",
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/teensinschool_26.jpg",
           "children": [
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-5-ela-module-2b-pdf/5m2b.assessments.pdf",
+              "title": "Grade 5 Module 2B",
+              "description": "Grade 5 Module 2B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-5-ela-module-2b-pdf/5m2b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-5-ela-module-2b-pdf/5m2b.overview.pdf",
+              "title": "Grade 5 Module 2B",
+              "description": "Grade 5 Module 2B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-5-ela-module-2b-pdf/5m2b.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-5-ela-module-2b-pdf/5m2b.performance.pdf",
+              "title": "Grade 5 Module 2B",
+              "description": "Grade 5 Module 2B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-5-ela-module-2b-pdf/5m2b.performance.pdf"
+                }
+              ]
+            },
             {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-5-ela-module-2b-unit-1",
@@ -29111,6 +29859,57 @@
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/childrenansweringquestion_30.jpg",
           "children": [
             {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-5-ela-module-3a-pdf/5m3a.assessments.pdf",
+              "title": "Grade 5 Module 3A",
+              "description": "Grade 5 Module 3A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-5-ela-module-3a-pdf/5m3a.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-5-ela-module-3a-pdf/5m3a.overview.pdf",
+              "title": "Grade 5 Module 3A",
+              "description": "Grade 5 Module 3A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-5-ela-module-3a-pdf/5m3a.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-5-ela-module-3a-pdf/5m3a.performance.pdf",
+              "title": "Grade 5 Module 3A",
+              "description": "Grade 5 Module 3A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-5-ela-module-3a-pdf/5m3a.performance.pdf"
+                }
+              ]
+            },
+            {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-5-ela-module-3a-unit-1",
               "title": "Unit 1",
@@ -30371,6 +31170,57 @@
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/girlatdesk_116.jpg",
           "children": [
             {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-5-ela-module-3b-pdf/5m3b.assessments.pdf",
+              "title": "Grade 5 Module 3B",
+              "description": "Grade 5 Module 3B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-5-ela-module-3b-pdf/5m3b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-5-ela-module-3b-pdf/5m3b.overview.pdf",
+              "title": "Grade 5 Module 3B",
+              "description": "Grade 5 Module 3B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-5-ela-module-3b-pdf/5m3b.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-5-ela-module-3b-pdf/5m3b.performance.pdf",
+              "title": "Grade 5 Module 3B",
+              "description": "Grade 5 Module 3B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-5-ela-module-3b-pdf/5m3b.performance.pdf"
+                }
+              ]
+            },
+            {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-5-ela-module-3b-unit-1",
               "title": "Unit 1",
@@ -31382,6 +32232,57 @@
           "description": "This module\u00a0engages students in a high-interest topic\u2014natural disasters\u2014with a literacy focus on point of view in literature, research, opinion writing, and public speaking. The module integrates science content (about extreme natural events) with a Social Studies focus on the Western Hemisphere and the role of multinational organizations.",
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/elementarykidssitting_atdesks_2.jpg",
           "children": [
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-5-ela-module-4-pdf/5m4.assessments.pdf",
+              "title": "Grade 5 Module 4",
+              "description": "Grade 5 Module 4",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-5-ela-module-4-pdf/5m4.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-5-ela-module-4-pdf/5m4.overview.pdf",
+              "title": "Grade 5 Module 4",
+              "description": "Grade 5 Module 4",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-5-ela-module-4-pdf/5m4.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-5-ela-module-4-pdf/5m4.performance.pdf",
+              "title": "Grade 5 Module 4",
+              "description": "Grade 5 Module 4",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-5-ela-module-4-pdf/5m4.performance.pdf"
+                }
+              ]
+            },
             {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-5-ela-module-4-unit-1",
@@ -32552,8 +33453,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-1-pdf/Module Level Documents/6m1.module.pdf",
-              "title": "Grade 6 Module 1 Module",
-              "description": "Grade 6 Module 1 Module",
+              "title": "Grade 6 Module 1 Overview",
+              "description": "Grade 6 Module 1 Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -32569,8 +33470,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-1-pdf/Module Level Documents/6m1.assessments.pdf",
-              "title": "Grade 6 Module 1 Assessments",
-              "description": "Grade 6 Module 1 Assessments",
+              "title": "Grade 6 Module 1",
+              "description": "Grade 6 Module 1",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -32586,8 +33487,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-1-pdf/Module Level Documents/6m1.performance.pdf",
-              "title": "Grade 6 Module 1 Performance",
-              "description": "Grade 6 Module 1 Performance",
+              "title": "Grade 6 Module 1",
+              "description": "Grade 6 Module 1",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -32603,8 +33504,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-1-pdf/Module Level Documents/6m1.texts.pdf",
-              "title": "Grade 6 Module 1 Texts",
-              "description": "Grade 6 Module 1 Texts",
+              "title": "Grade 6 Module 1",
+              "description": "Grade 6 Module 1",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -33960,6 +34861,74 @@
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/middleschoolchildrenreading_1.jpg",
           "children": [
             {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-2a-pdf/Module Level/6m2a.assessments.pdf",
+              "title": "Grade 6 Module 2A",
+              "description": "Grade 6 Module 2A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-2a-pdf/Module Level/6m2a.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-2a-pdf/Module Level/6m2a.overview.pdf",
+              "title": "Grade 6 Module 2A",
+              "description": "Grade 6 Module 2A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-2a-pdf/Module Level/6m2a.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-2a-pdf/Module Level/6m2a.performance.pdf",
+              "title": "Grade 6 Module 2A",
+              "description": "Grade 6 Module 2A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-2a-pdf/Module Level/6m2a.performance.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-2a-pdf/Module Level/6m2a.texts.pdf",
+              "title": "Grade 6 Module 2A",
+              "description": "Grade 6 Module 2A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-2a-pdf/Module Level/6m2a.texts.pdf"
+                }
+              ]
+            },
+            {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-6-ela-module-2a-unit-1-overview",
               "title": "Unit 1",
@@ -35188,6 +36157,74 @@
           "description": "Voices of Adversity In this eight-week module, students explore the idea of adversity of people across time and place, and through multiple modes of writing. Students begin this module with a research-based unit on the Middle Ages. They read informational articles about various aspects of medieval life, learning and practicing the skills of summarizing an article, analyzing how ideas are developed across a text, and describing how a part of a text contributes to the whole. Students then break into expert groups to read closely about one demographic group. They practice the informational reading skills they have learned and explore the adversities faced by that group. In the second half of Unit 1, students write an informational essay based on their research as their end of unit assessment. In Unit 2, students use their background knowledge built during Unit 1, but move to reading literature: Good Masters! Sweet Ladies! Voices from a Medieval Village. This is a book of monologues told from the perspective of children living in the same village during the Middle Ages. Students have dual tasks: First, they identify the various adversities faced by this cast of characters; secondly, they examine\u00a0the author\u2019s craft, specifically by identifying and interpreting figurative language in the monologues as well as analyzing how word choices affect the tone of the text. In the second half of Unit 2, students write a literary argument to address the question \u201cDo we struggle with the same adversities as the people of Good Masters! Sweet Ladies!?\u201d In Unit 3, students move into modern voices of adversity by reading concrete poems in the books Blue Lipstick and Technically, It\u2019s Not My Fault. These concrete poems highlight adversities faced by the speakers of the poems, an adolescent girl and her younger brother. Students apply the same reading skills they learned in the reading of Unit 2, but this unit is discussion-based, allowing teachers to assess students\u2019 speaking and listening skills in small group discussions about the texts. For their performance task, students choose a writing format\u2014narrative, like the monologues of Good Masters! Sweet Ladies!, or concrete poem\u2014and write their own text about adversities faced by sixth-graders. Students then perform their writing for a group of their peers. This task addresses NYSP12 ELA CCLS W.6.3, SL.6.4, SL.6.6, L.6.1, L.6.3, and L.6.6.",
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/books_148.jpg",
           "children": [
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-2b-pdf/6m2b.assessments.pdf",
+              "title": "Grade 6 Module 2B",
+              "description": "Grade 6 Module 2B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-2b-pdf/6m2b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-2b-pdf/6m2b.overview.pdf",
+              "title": "Grade 6 Module 2B",
+              "description": "Grade 6 Module 2B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-2b-pdf/6m2b.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-2b-pdf/6m2b.performance.pdf",
+              "title": "Grade 6 Module 2B",
+              "description": "Grade 6 Module 2B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-2b-pdf/6m2b.performance.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-2b-pdf/6m2b.texts.pdf",
+              "title": "Grade 6 Module 2B",
+              "description": "Grade 6 Module 2B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-2b-pdf/6m2b.texts.pdf"
+                }
+              ]
+            },
             {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-6-ela-module-2b-unit-1",
@@ -36449,6 +37486,74 @@
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/boyinclassroom_138.jpg",
           "children": [
             {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-3a-pdf/6m3a.assessments.pdf",
+              "title": "Grade 6 Module 3A",
+              "description": "Grade 6 Module 3A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-3a-pdf/6m3a.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-3a-pdf/6m3a.overview.pdf",
+              "title": "Grade 6 Module 3A",
+              "description": "Grade 6 Module 3A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-3a-pdf/6m3a.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-3a-pdf/6m3a.performance.pdf",
+              "title": "Grade 6 Module 3A",
+              "description": "Grade 6 Module 3A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-3a-pdf/6m3a.performance.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-3a-pdf/6m3a.texts.pdf",
+              "title": "Grade 6 Module 3A",
+              "description": "Grade 6 Module 3A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-3a-pdf/6m3a.texts.pdf"
+                }
+              ]
+            },
+            {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-6-ela-module-3a-unit-1",
               "title": "Unit 1",
@@ -37616,6 +38721,74 @@
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/bookshelf.jpg",
           "children": [
             {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-3b-pdf/6m3b.assessments.pdf",
+              "title": "Grade 6 Module 3B",
+              "description": "Grade 6 Module 3B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-3b-pdf/6m3b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-3b-pdf/6m3b.overview.pdf",
+              "title": "Grade 6 Module 3B",
+              "description": "Grade 6 Module 3B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-3b-pdf/6m3b.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-3b-pdf/6m3b.performance.pdf",
+              "title": "Grade 6 Module 3B",
+              "description": "Grade 6 Module 3B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-3b-pdf/6m3b.performance.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-3b-pdf/6m3b.texts.pdf",
+              "title": "Grade 6 Module 3B",
+              "description": "Grade 6 Module 3B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-3b-pdf/6m3b.texts.pdf"
+                }
+              ]
+            },
+            {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-6-ela-module-3b-unit-1",
               "title": "Unit 1",
@@ -38782,6 +39955,74 @@
           "description": "In this eight-week, research-based module, students explore the benefits and harmful consequences of the use of the controversial pesticide DDT. In Unit 1, students begin the novel Frightful\u2019s Mountain (640L) by Jean Craighead George. Students will read closely to practice citing evidence and drawing inferences from this compelling text as they begin to think about the interactions between people and the natural world. They also will read informational texts and watch videos to gather evidence and trace arguments about the uses, benefits, and harmful consequences of DDT, its affects on the environment, and its use in the battle against malaria. At the end of this unit, students will participate in a Fishbowl discussion to begin to articulate their evidence-based opinions about the central question: \u201cDo the benefits of DDT outweigh its harmful consequences?\u201d In Unit 2, students will read the remainder of the novel, focusing on the how the main character, Frightful, is affected by the actions of other people and her own interactions with the natural world. Students also will engage in a research project, continuing to explore the central question of the module. Students will read several complex texts, both print and digital, in order to collect relevant information in a structured researcher\u2019s notebook. To help them grapple with this issue, students learn a decision-making process called \u201cStakeholder Consequences Decision-Making\u201d (see the end of this document for details). This process will help students understand the implications of various choices, and will scaffold their ability to determine\u2014based on evidence and their own values\u2014what they believe can and should happen. Unit 2 culminates with students synthesizing all their reading thus far in order to make and present their own evidence-based claim about the use of DDT. In Unit 3, students choose the most compelling evidence and write a position paper in which they support the claim they made (at the end of Unit 2). As a mid-unit assessment, students will submit their best draft of this position paper. As an end of unit assessment, students will submit a published copy, as well as a reflection on the writing process. As the final performance task, students share their findings by creating a scientific poster and presenting that poster to peers during a hosted gallery. This task addresses NYSP12 ELA CCLS R.6.1, W.6.1, W.6.4, W.6.4, and L.6.6.",
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/childrenreading_42.jpg",
           "children": [
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-4-pdf/6m4.assessments.pdf",
+              "title": "Grade 6 Module 4",
+              "description": "Grade 6 Module 4",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-4-pdf/6m4.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-4-pdf/6m4.overview.pdf",
+              "title": "Grade 6 Module 4",
+              "description": "Grade 6 Module 4",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-4-pdf/6m4.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-4-pdf/6m4.performance.pdf",
+              "title": "Grade 6 Module 4",
+              "description": "Grade 6 Module 4",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-4-pdf/6m4.performance.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-4-pdf/6m4.texts.pdf",
+              "title": "Grade 6 Module 4",
+              "description": "Grade 6 Module 4",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-4-pdf/6m4.texts.pdf"
+                }
+              ]
+            },
             {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-6-ela-module-4-unit-1",
@@ -40105,8 +41346,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-7-ela-module-1-pdf/Module Level Documents/7m1.module.pdf",
-              "title": "Grade 7 Module 1 Module",
-              "description": "Grade 7 Module 1 Module",
+              "title": "Grade 7 Module 1 Overview",
+              "description": "Grade 7 Module 1 Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -40122,8 +41363,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-7-ela-module-1-pdf/Module Level Documents/7m1.assessments.pdf",
-              "title": "Grade 7 Module 1 Assessments",
-              "description": "Grade 7 Module 1 Assessments",
+              "title": "Grade 7 Module 1",
+              "description": "Grade 7 Module 1",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -40139,8 +41380,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-7-ela-module-1-pdf/Module Level Documents/7m1.performance.pdf",
-              "title": "Grade 7 Module 1 Performance",
-              "description": "Grade 7 Module 1 Performance",
+              "title": "Grade 7 Module 1",
+              "description": "Grade 7 Module 1",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -40156,8 +41397,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-7-ela-module-1-pdf/Module Level Documents/7m1.texts.pdf",
-              "title": "Grade 7 Module 1 Texts",
-              "description": "Grade 7 Module 1 Texts",
+              "title": "Grade 7 Module 1",
+              "description": "Grade 7 Module 1",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -41465,6 +42706,74 @@
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/class_with_teacher_24.jpg",
           "children": [
             {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-7-ela-module-2a-pdf/Module Level/7m2a.assessments.pdf",
+              "title": "Grade 7 Module 2A",
+              "description": "Grade 7 Module 2A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-7-ela-module-2a-pdf/Module Level/7m2a.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-7-ela-module-2a-pdf/Module Level/7m2a.overview.pdf",
+              "title": "Grade 7 Module 2A",
+              "description": "Grade 7 Module 2A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-7-ela-module-2a-pdf/Module Level/7m2a.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-7-ela-module-2a-pdf/Module Level/7m2a.performance.pdf",
+              "title": "Grade 7 Module 2A",
+              "description": "Grade 7 Module 2A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-7-ela-module-2a-pdf/Module Level/7m2a.performance.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-7-ela-module-2a-pdf/Module Level/7m2a.texts.pdf",
+              "title": "Grade 7 Module 2A",
+              "description": "Grade 7 Module 2A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-7-ela-module-2a-pdf/Module Level/7m2a.texts.pdf"
+                }
+              ]
+            },
+            {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-7-ela-module-2a-unit-1-overview",
               "title": "Unit 1",
@@ -42693,6 +44002,74 @@
           "description": "In this module, students explore the concept of personal identity formation and transformation in both historical and modern-day societies. The module begins with an overview of what \u201cidentity\u201d means and how it can mean different things to different people. In Unit 1, students read first-person narratives that focus on various social identifiers\u2014from race to gender to socioeconomic status\u2014as they begin to frame their understanding of what identity means. Students read informational text, identifying central ideas, analyzing how an author develops his or her claims, and identifying how the sections of the text interact to form those ideas. Unit 1 builds students\u2019 background knowledge in preparation for Unit 2, during which students closely read Pygmalion by George Bernard Shaw and further explore the identity transformation of the play\u2019s main character, Eliza Doolittle. This unit centers on standard RL.7.3, which focuses on how plot, character, and setting interact in literature. As an end of unit assessment, students write an argumentative essay about Eliza\u2019s changes internally and externally as she undergoes the experiment of recreating herself under Higgins\u2019 tutelage. In Unit 3, students analyze the impact of gender roles and stereotypes in personal identity development as influenced by the media and advertising. As students read and discuss both literary and informational texts, they strengthen their ability to discuss specific passages from a text with a partner, write extended text-based argumentative and informational pieces, and conduct a short research project. Unit 3 focuses on the research standards W.7.7 and W.7.8 through an investigation of how media and advertising perpetuate stereotypes about gender and affect individuals\u2019 sense of self. As a final performance task, students create an advertisement analysis of a current print ad and modify it by making a \u201ccounter ad\u201d that does not rely on gender-specific stereotypes and instead offers a new vision of what men and women can be. At the end of the module, students will have a better understanding of how society tries to define individuals and how individuals try to define themselves.",
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/studyingfortest_129.jpg",
           "children": [
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-7-ela-module-2b-pdf/7m2b.assessments.pdf",
+              "title": "Grade 7 Module 2B",
+              "description": "Grade 7 Module 2B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-7-ela-module-2b-pdf/7m2b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-7-ela-module-2b-pdf/7m2b.overview.pdf",
+              "title": "Grade 7 Module 2B",
+              "description": "Grade 7 Module 2B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-7-ela-module-2b-pdf/7m2b.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-7-ela-module-2b-pdf/7m2b.performance.pdf",
+              "title": "Grade 7 Module 2B",
+              "description": "Grade 7 Module 2B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-7-ela-module-2b-pdf/7m2b.performance.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-7-ela-module-2b-pdf/7m2b.texts.pdf",
+              "title": "Grade 7 Module 2B",
+              "description": "Grade 7 Module 2B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-7-ela-module-2b-pdf/7m2b.texts.pdf"
+                }
+              ]
+            },
             {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-7-ela-module-2b-unit-1",
@@ -45431,6 +46808,74 @@
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/boyatschool_53.jpg",
           "children": [
             {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-7-ela-module-4a-pdf/7m4a.assessments.pdf",
+              "title": "Grade 7 Module 4A",
+              "description": "Grade 7 Module 4A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-7-ela-module-4a-pdf/7m4a.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-7-ela-module-4a-pdf/7m4a.overview.pdf",
+              "title": "Grade 7 Module 4A",
+              "description": "Grade 7 Module 4A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-7-ela-module-4a-pdf/7m4a.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-7-ela-module-4a-pdf/7m4a.performance.pdf",
+              "title": "Grade 7 Module 4A",
+              "description": "Grade 7 Module 4A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-7-ela-module-4a-pdf/7m4a.performance.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-7-ela-module-4a-pdf/7m4a.texts.pdf",
+              "title": "Grade 7 Module 4A",
+              "description": "Grade 7 Module 4A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-7-ela-module-4a-pdf/7m4a.texts.pdf"
+                }
+              ]
+            },
+            {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-7-ela-module-4a-unit-1",
               "title": "Unit 1",
@@ -46691,6 +48136,74 @@
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/youngadultreading_0.jpg",
           "children": [
             {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-7-ela-module-4b-pdf/7m4b.assessments.pdf",
+              "title": "Grade 7 Module 4B",
+              "description": "Grade 7 Module 4B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-7-ela-module-4b-pdf/7m4b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-7-ela-module-4b-pdf/7m4b.overview.pdf",
+              "title": "Grade 7 Module 4B",
+              "description": "Grade 7 Module 4B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-7-ela-module-4b-pdf/7m4b.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-7-ela-module-4b-pdf/7m4b.performance.pdf",
+              "title": "Grade 7 Module 4B",
+              "description": "Grade 7 Module 4B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-7-ela-module-4b-pdf/7m4b.performance.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-7-ela-module-4b-pdf/7m4b.texts.pdf",
+              "title": "Grade 7 Module 4B",
+              "description": "Grade 7 Module 4B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-7-ela-module-4b-pdf/7m4b.texts.pdf"
+                }
+              ]
+            },
+            {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-7-ela-module-4b-unit-1",
               "title": "Unit 1",
@@ -47931,8 +49444,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-1-pdf/Module Level Documents/8m1.module.pdf",
-              "title": "Grade 8 Module 1 Module",
-              "description": "Grade 8 Module 1 Module",
+              "title": "Grade 8 Module 1 Overview",
+              "description": "Grade 8 Module 1 Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -47948,8 +49461,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-1-pdf/Module Level Documents/8m1.assessments.pdf",
-              "title": "Grade 8 Module 1 Assessments",
-              "description": "Grade 8 Module 1 Assessments",
+              "title": "Grade 8 Module 1",
+              "description": "Grade 8 Module 1",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -47965,8 +49478,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-1-pdf/Module Level Documents/8m1.performance.pdf",
-              "title": "Grade 8 Module 1 Performance",
-              "description": "Grade 8 Module 1 Performance",
+              "title": "Grade 8 Module 1",
+              "description": "Grade 8 Module 1",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -47982,8 +49495,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-1-pdf/Module Level Documents/8m1.texts.pdf",
-              "title": "Grade 8 Module 1 Texts",
-              "description": "Grade 8 Module 1 Texts",
+              "title": "Grade 8 Module 1",
+              "description": "Grade 8 Module 1",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -49339,6 +50852,74 @@
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/childrenonchalkboard_21.jpg",
           "children": [
             {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-2a-pdf/Module Level/8m2a.assessments.pdf",
+              "title": "Grade 8 Module 2A",
+              "description": "Grade 8 Module 2A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-2a-pdf/Module Level/8m2a.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-2a-pdf/Module Level/8m2a.overview.pdf",
+              "title": "Grade 8 Module 2A",
+              "description": "Grade 8 Module 2A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-2a-pdf/Module Level/8m2a.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-2a-pdf/Module Level/8m2a.performance.pdf",
+              "title": "Grade 8 Module 2A",
+              "description": "Grade 8 Module 2A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-2a-pdf/Module Level/8m2a.performance.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-2a-pdf/Module Level/8m2a.texts.pdf",
+              "title": "Grade 8 Module 2A",
+              "description": "Grade 8 Module 2A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-2a-pdf/Module Level/8m2a.texts.pdf"
+                }
+              ]
+            },
+            {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-8-ela-module-2a-unit-1",
               "title": "Unit 1",
@@ -50629,6 +52210,74 @@
           "description": "In this second module, students read and analyze Shakespeare\u2019s A Midsummer Night\u2019s Dream. As with any of Shakespeare\u2019s play, many rich themes are present; in this module, students will focus primarily on the theme of control. Characters in this play are controlled by emotions, other characters, and even magic. They often attempt to manipulate others in a variety of ways. Students will examine why the characters seek control, how they try to control others, and the results of attempting to control others. In Unit 1, students will build background knowledge as they explore the appeal and authorship of Shakespeare. Students will read much of the play aloud in a Drama Circle, and will frequently reread key passages to deepen their understanding. Students will analyze differences between a film version of the play and Shakespeare\u2019s original script. In Unit 2, students will study how Shakespeare drew upon Greek mythology as he crafted the play within the play. They will continue to closely study characters who attempt to control or manipulate others in the play, and write an argument essay about whether or not Shakespeare makes the case in A Midsummer Night\u2019s Dream that it is possible to control someone else\u2019s actions or not. In Unit 3, students will write a \u201cconfessional\u201d narrative from the point of view of one of the characters in A Midsummer Night\u2019s Dream to creatively explain his or her attempts to control or manipulate someone else in the play. This performance task centers on standards NYSP12 ELA CCLS RL.8.2, RL.8.3, W.8.3, W.8.4, W.8.9a, and W.11b.",
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/youngadultreading2.jpg",
           "children": [
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-2b-pdf/8m2b.assessments.pdf",
+              "title": "Grade 8 Module 2B",
+              "description": "Grade 8 Module 2B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-2b-pdf/8m2b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-2b-pdf/8m2b.overview.pdf",
+              "title": "Grade 8 Module 2B",
+              "description": "Grade 8 Module 2B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-2b-pdf/8m2b.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-2b-pdf/8m2b.performance.pdf",
+              "title": "Grade 8 Module 2B",
+              "description": "Grade 8 Module 2B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-2b-pdf/8m2b.performance.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-2b-pdf/8m2b.texts.pdf",
+              "title": "Grade 8 Module 2B",
+              "description": "Grade 8 Module 2B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-2b-pdf/8m2b.texts.pdf"
+                }
+              ]
+            },
             {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-8-ela-module-2b-unit-1",
@@ -51921,6 +53570,74 @@
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/girlatdesk_114.jpg",
           "children": [
             {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-3a-pdf/8m3a.assessments.pdf",
+              "title": "Grade 8 Module 3A",
+              "description": "Grade 8 Module 3A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-3a-pdf/8m3a.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-3a-pdf/8m3a.overview.pdf",
+              "title": "Grade 8 Module 3A",
+              "description": "Grade 8 Module 3A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-3a-pdf/8m3a.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-3a-pdf/8m3a.performance.pdf",
+              "title": "Grade 8 Module 3A",
+              "description": "Grade 8 Module 3A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-3a-pdf/8m3a.performance.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-3a-pdf/8m3a.texts.pdf",
+              "title": "Grade 8 Module 3A",
+              "description": "Grade 8 Module 3A",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-3a-pdf/8m3a.texts.pdf"
+                }
+              ]
+            },
+            {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-8-ela-module-3a-unit-1",
               "title": "Unit 1",
@@ -53211,6 +54928,74 @@
           "description": "The Civil Rights Movement and The Little Rock Nine In this module, students will study the U.S. civil rights movement, focusing\u00a0particularly on The Little Rock Nine. They will consider the question \u201cHow can\u00a0stories be powerful?\u201d as they learn about segregation, the civil rights movement,\u00a0The Little Rock Nine, and the role of the various mediums in shaping perceptions of\u00a0events. As students read A Mighty Long Way by Carlotta Walls LaNier and a photo\u00a0essay titled Little Rock Girl 1957 by Shelley Tougas, they will consider the different\u00a0ways in which the story of The Little Rock Nine has been told.",
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/public_library_1.jpg",
           "children": [
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-3b-pdf/8m3b.assessments.pdf",
+              "title": "Grade 8 Module 3B",
+              "description": "Grade 8 Module 3B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-3b-pdf/8m3b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-3b-pdf/8m3b.overview.pdf",
+              "title": "Grade 8 Module 3B",
+              "description": "Grade 8 Module 3B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-3b-pdf/8m3b.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-3b-pdf/8m3b.performance.pdf",
+              "title": "Grade 8 Module 3B",
+              "description": "Grade 8 Module 3B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-3b-pdf/8m3b.performance.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-3b-pdf/8m3b.texts.pdf",
+              "title": "Grade 8 Module 3B",
+              "description": "Grade 8 Module 3B",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-3b-pdf/8m3b.texts.pdf"
+                }
+              ]
+            },
             {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-8-ela-module-3b-unit-1",
@@ -54533,6 +56318,74 @@
           "description": "In this module, students analyze arguments and the evidence used to support arguments to determine whether sufficient evidence has been used and whether the evidence is relevant in support of the claim an author or speaker is making. They then research to gather evidence to make their own spoken and written arguments. Students will read Michael Pollan\u2019s The Omnivore\u2019s Dilemma (930L), a literary non-fiction text about where food comes from and about making decisions about what food to buy and eat. They build background knowledge about what happens to food before it gets to the consumer, and the different choices the consumer can make when buying food while analyzing Michael Pollan\u2019s arguments and the evidence he uses to support his claims. In Unit 2, students engage in a robust research project in which they further investigate the consequences of each of the food chains and the stakeholders affected in those food chains. To help students grapple with this issue, they use a decision-making process called \u201cStakeholder Consequences Decision-Making\u201d (see the end of this document for details). This process will help students understand the implications of various choices, and will scaffold their ability to determine, based on evidence and their own values, to take a position on which food chain they would choose if they were trying to feed everyone in the US. Students finish the module by writing a position paper explaining which of Michael Pollan\u2019s food chain they would choose to feed the US and why, and creating a poster stating their position. This task addresses NYSP12 ELA Standards RI.8.1,W.8.1, W.8.1a, W.8.1b, W.8.1c, W.8.1d, W.8.1e and W.8.9.",
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/boyreading_117.jpg",
           "children": [
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-4-pdf/8m4.assessments.pdf",
+              "title": "Grade 8 Module 4",
+              "description": "Grade 8 Module 4",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-4-pdf/8m4.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-4-pdf/8m4.overview.pdf",
+              "title": "Grade 8 Module 4",
+              "description": "Grade 8 Module 4",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-4-pdf/8m4.overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-4-pdf/8m4.performance.pdf",
+              "title": "Grade 8 Module 4",
+              "description": "Grade 8 Module 4",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-4-pdf/8m4.performance.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-4-pdf/8m4.texts.pdf",
+              "title": "Grade 8 Module 4",
+              "description": "Grade 8 Module 4",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-4-pdf/8m4.texts.pdf"
+                }
+              ]
+            },
             {
               "kind": "topic",
               "source_id": "https://www.engageny.org/resource/grade-8-ela-module-4-unit-1",
