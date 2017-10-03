@@ -9180,6 +9180,40 @@
               },
               "children": [
                 {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-3-ela-module-1-pdf/Unit 1/3m1.1unit.pdf",
+                  "title": "Grade 3 Module 1 Unit 1 Unit",
+                  "description": "Grade 3 Module 1 Unit 1 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-3-ela-module-1-pdf/Unit 1/3m1.1unit.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-3-ela-module-1-pdf/Unit 1/3m1.1texts.pdf",
+                  "title": "Grade 3 Module 1 Unit 1 Texts",
+                  "description": "Grade 3 Module 1 Unit 1 Texts",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-3-ela-module-1-pdf/Unit 1/3m1.1texts.pdf"
+                    }
+                  ]
+                },
+                {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-3-ela-module-1-unit-1-lesson-1",
                   "title": "Lesson 1",
@@ -9535,6 +9569,40 @@
               },
               "children": [
                 {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-3-ela-module-1-pdf/Unit 2/3m1.2unit.pdf",
+                  "title": "Grade 3 Module 1 Unit 2 Unit",
+                  "description": "Grade 3 Module 1 Unit 2 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-3-ela-module-1-pdf/Unit 2/3m1.2unit.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-3-ela-module-1-pdf/Unit 2/3m1.2texts.pdf",
+                  "title": "Grade 3 Module 1 Unit 2 Texts",
+                  "description": "Grade 3 Module 1 Unit 2 Texts",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-3-ela-module-1-pdf/Unit 2/3m1.2texts.pdf"
+                    }
+                  ]
+                },
+                {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-3-ela-module-1-unit-2-lesson-1",
                   "title": "Lesson 1",
@@ -9858,6 +9926,40 @@
                 "description": null
               },
               "children": [
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-3-ela-module-1-pdf/Unit 3/3m1.3unit.pdf",
+                  "title": "Grade 3 Module 1 Unit 3 Unit",
+                  "description": "Grade 3 Module 1 Unit 3 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-3-ela-module-1-pdf/Unit 3/3m1.3unit.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-3-ela-module-1-pdf/Unit 3/3m1.3texts.pdf",
+                  "title": "Grade 3 Module 1 Unit 3 Texts",
+                  "description": "Grade 3 Module 1 Unit 3 Texts",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-3-ela-module-1-pdf/Unit 3/3m1.3texts.pdf"
+                    }
+                  ]
+                },
                 {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-3-ela-module-1-unit-3-lesson-1",
@@ -15356,6 +15458,40 @@
               },
               "children": [
                 {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-3-ela-module-4-pdf/Unit 1/3m4.1unit.pdf",
+                  "title": "Grade 3 Module 4 Unit 1 Unit",
+                  "description": "Grade 3 Module 4 Unit 1 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-3-ela-module-4-pdf/Unit 1/3m4.1unit.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-3-ela-module-4-pdf/Unit 1/3m4.1texts.pdf",
+                  "title": "Grade 3 Module 4 Unit 1 Texts",
+                  "description": "Grade 3 Module 4 Unit 1 Texts",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-3-ela-module-4-pdf/Unit 1/3m4.1texts.pdf"
+                    }
+                  ]
+                },
+                {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-3-ela-module-4-unit-1-lesson-1",
                   "title": "Lesson 1",
@@ -15773,6 +15909,40 @@
               },
               "children": [
                 {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-3-ela-module-4-pdf/Unit 2/3m4.2unit.pdf",
+                  "title": "Grade 3 Module 4 Unit 2 Unit",
+                  "description": "Grade 3 Module 4 Unit 2 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-3-ela-module-4-pdf/Unit 2/3m4.2unit.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-3-ela-module-4-pdf/Unit 2/3m4.2texts.pdf",
+                  "title": "Grade 3 Module 4 Unit 2 Texts",
+                  "description": "Grade 3 Module 4 Unit 2 Texts",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-3-ela-module-4-pdf/Unit 2/3m4.2texts.pdf"
+                    }
+                  ]
+                },
+                {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-3-ela-module-4-unit-2-lesson-1",
                   "title": "Lesson 1",
@@ -16127,6 +16297,40 @@
                 "description": null
               },
               "children": [
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-3-ela-module-4-pdf/Unit 3/3m4.3unit.pdf",
+                  "title": "Grade 3 Module 4 Unit 3 Unit",
+                  "description": "Grade 3 Module 4 Unit 3 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-3-ela-module-4-pdf/Unit 3/3m4.3unit.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-3-ela-module-4-pdf/Unit 3/3m4.3texts.pdf",
+                  "title": "Grade 3 Module 4 Unit 3 Texts",
+                  "description": "Grade 3 Module 4 Unit 3 Texts",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-3-ela-module-4-pdf/Unit 3/3m4.3texts.pdf"
+                    }
+                  ]
+                },
                 {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-3-ela-module-4-unit-3-lesson-1",
@@ -23554,6 +23758,40 @@
               },
               "children": [
                 {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-4-ela-module-4-pdf/Unit 1/4m4.1unit.pdf",
+                  "title": "Grade 4 Module 4 Unit 1 Unit",
+                  "description": "Grade 4 Module 4 Unit 1 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-4-ela-module-4-pdf/Unit 1/4m4.1unit.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-4-ela-module-4-pdf/Unit 1/4m4.1texts.pdf",
+                  "title": "Grade 4 Module 4 Unit 1 Texts",
+                  "description": "Grade 4 Module 4 Unit 1 Texts",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-4-ela-module-4-pdf/Unit 1/4m4.1texts.pdf"
+                    }
+                  ]
+                },
+                {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-4-ela-module-4-unit-1-lesson-1",
                   "title": "Lesson 1",
@@ -23846,6 +24084,40 @@
                 "description": null
               },
               "children": [
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-4-ela-module-4-pdf/Unit 2/4m4.2unit.pdf",
+                  "title": "Grade 4 Module 4 Unit 2 Unit",
+                  "description": "Grade 4 Module 4 Unit 2 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-4-ela-module-4-pdf/Unit 2/4m4.2unit.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-4-ela-module-4-pdf/Unit 2/4m4.2texts.pdf",
+                  "title": "Grade 4 Module 4 Unit 2 Texts",
+                  "description": "Grade 4 Module 4 Unit 2 Texts",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-4-ela-module-4-pdf/Unit 2/4m4.2texts.pdf"
+                    }
+                  ]
+                },
                 {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-4-ela-module-4-unit-2-lesson-1",
@@ -24419,6 +24691,40 @@
               },
               "children": [
                 {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-4-ela-module-4-pdf/Unit 3/4m4.3unit.pdf",
+                  "title": "Grade 4 Module 4 Unit 3 Unit",
+                  "description": "Grade 4 Module 4 Unit 3 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-4-ela-module-4-pdf/Unit 3/4m4.3unit.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-4-ela-module-4-pdf/Unit 3/4m4.3texts.pdf",
+                  "title": "Grade 4 Module 4 Unit 3 Texts",
+                  "description": "Grade 4 Module 4 Unit 3 Texts",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-4-ela-module-4-pdf/Unit 3/4m4.3texts.pdf"
+                    }
+                  ]
+                },
+                {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-4-ela-module-4-unit-3-lesson-1",
                   "title": "Lesson 1",
@@ -24811,6 +25117,40 @@
               },
               "children": [
                 {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-5-ela-module-1-pdf/Unit 1/5m1.1unit.pdf",
+                  "title": "Grade 5 Module 1 Unit 1 Unit",
+                  "description": "Grade 5 Module 1 Unit 1 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-5-ela-module-1-pdf/Unit 1/5m1.1unit.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-5-ela-module-1-pdf/Unit 1/5m1.1texts.pdf",
+                  "title": "Grade 5 Module 1 Unit 1 Texts",
+                  "description": "Grade 5 Module 1 Unit 1 Texts",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-5-ela-module-1-pdf/Unit 1/5m1.1texts.pdf"
+                    }
+                  ]
+                },
+                {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-5-ela-module-1-unit-1-lesson-1",
                   "title": "Lesson 1",
@@ -25165,6 +25505,40 @@
                 "description": null
               },
               "children": [
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-5-ela-module-1-pdf/Unit 2/5m1.2unit.pdf",
+                  "title": "Grade 5 Module 1 Unit 2 Unit",
+                  "description": "Grade 5 Module 1 Unit 2 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-5-ela-module-1-pdf/Unit 2/5m1.2unit.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-5-ela-module-1-pdf/Unit 2/5m1.2texts.pdf",
+                  "title": "Grade 5 Module 1 Unit 2 Texts",
+                  "description": "Grade 5 Module 1 Unit 2 Texts",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-5-ela-module-1-pdf/Unit 2/5m1.2texts.pdf"
+                    }
+                  ]
+                },
                 {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-5-ela-module-1-unit-2-lesson-1",
@@ -25737,6 +26111,40 @@
                 "description": null
               },
               "children": [
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-5-ela-module-1-pdf/Unit 3/5m1.3unit.pdf",
+                  "title": "Grade 5 Module 1 Unit 3 Unit",
+                  "description": "Grade 5 Module 1 Unit 3 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-5-ela-module-1-pdf/Unit 3/5m1.3unit.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-5-ela-module-1-pdf/Unit 3/5m1.3texts.pdf",
+                  "title": "Grade 5 Module 1 Unit 3 Texts",
+                  "description": "Grade 5 Module 1 Unit 3 Texts",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-5-ela-module-1-pdf/Unit 3/5m1.3texts.pdf"
+                    }
+                  ]
+                },
                 {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-5-ela-module-1-unit-3-lesson-1",
@@ -30987,6 +31395,40 @@
               },
               "children": [
                 {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-5-ela-module-4-pdf/Unit 1/5m4.1unit.pdf",
+                  "title": "Grade 5 Module 4 Unit 1 Unit",
+                  "description": "Grade 5 Module 4 Unit 1 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-5-ela-module-4-pdf/Unit 1/5m4.1unit.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-5-ela-module-4-pdf/Unit 1/5m4.1texts.pdf",
+                  "title": "Grade 5 Module 4 Unit 1 Texts",
+                  "description": "Grade 5 Module 4 Unit 1 Texts",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-5-ela-module-4-pdf/Unit 1/5m4.1texts.pdf"
+                    }
+                  ]
+                },
+                {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-5-ela-module-4-unit-1-lesson-1",
                   "title": "Lesson 1",
@@ -31248,6 +31690,23 @@
                 "description": null
               },
               "children": [
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-5-ela-module-4-pdf/Unit 2/5m4.2unit.pdf",
+                  "title": "Grade 5 Module 4 Unit 2 Unit",
+                  "description": "Grade 5 Module 4 Unit 2 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-5-ela-module-4-pdf/Unit 2/5m4.2unit.pdf"
+                    }
+                  ]
+                },
                 {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-5-ela-module-4-unit-2-lesson-1",
@@ -31541,6 +32000,40 @@
                 "description": null
               },
               "children": [
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-5-ela-module-4-pdf/Unit 3/5m4.3unit.pdf",
+                  "title": "Grade 5 Module 4 Unit 3 Unit",
+                  "description": "Grade 5 Module 4 Unit 3 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-5-ela-module-4-pdf/Unit 3/5m4.3unit.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-5-ela-module-4-pdf/Unit 3/5m4.3texts.pdf",
+                  "title": "Grade 5 Module 4 Unit 3 Texts",
+                  "description": "Grade 5 Module 4 Unit 3 Texts",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-5-ela-module-4-pdf/Unit 3/5m4.3texts.pdf"
+                    }
+                  ]
+                },
                 {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-5-ela-module-4-unit-3-lesson-1",
@@ -32137,6 +32630,23 @@
               },
               "children": [
                 {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-6-ela-module-1-pdf/Unit 1/6m1.1unit.pdf",
+                  "title": "Grade 6 Module 1 Unit 1 Unit",
+                  "description": "Grade 6 Module 1 Unit 1 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-6-ela-module-1-pdf/Unit 1/6m1.1unit.pdf"
+                    }
+                  ]
+                },
+                {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-6-ela-module-1-unit-1-lesson-1",
                   "title": "Lesson 1",
@@ -32553,6 +33063,23 @@
                 "description": null
               },
               "children": [
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-6-ela-module-1-pdf/Unit 2/6m1.2unit.pdf",
+                  "title": "Grade 6 Module 1 Unit 2 Unit",
+                  "description": "Grade 6 Module 1 Unit 2 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-6-ela-module-1-pdf/Unit 2/6m1.2unit.pdf"
+                    }
+                  ]
+                },
                 {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-6-module-1-unit-2-lesson-1",
@@ -33187,6 +33714,23 @@
                 "description": null
               },
               "children": [
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-6-ela-module-1-pdf/Unit 3/6m1.3unit.pdf",
+                  "title": "Grade 6 Module 1 Unit 3 Unit",
+                  "description": "Grade 6 Module 1 Unit 3 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-6-ela-module-1-pdf/Unit 3/6m1.3unit.pdf"
+                    }
+                  ]
+                },
                 {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-6-module-1-unit-3-lesson-1",
@@ -38251,6 +38795,23 @@
               },
               "children": [
                 {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-6-ela-module-4-pdf/Unit 1/6m4.1unit.pdf",
+                  "title": "Grade 6 Module 4 Unit 1 Unit",
+                  "description": "Grade 6 Module 4 Unit 1 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-6-ela-module-4-pdf/Unit 1/6m4.1unit.pdf"
+                    }
+                  ]
+                },
+                {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-6-ela-module-4-unit-1-lesson-1",
                   "title": "Lesson 1",
@@ -38667,6 +39228,23 @@
                 "description": null
               },
               "children": [
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-6-ela-module-4-pdf/Unit 2/6m4.2unit.pdf",
+                  "title": "Grade 6 Module 4 Unit 2 Unit",
+                  "description": "Grade 6 Module 4 Unit 2 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-6-ela-module-4-pdf/Unit 2/6m4.2unit.pdf"
+                    }
+                  ]
+                },
                 {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-6-ela-module-4-unit-2-lesson-1",
@@ -39147,6 +39725,23 @@
               },
               "children": [
                 {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-6-ela-module-4-pdf/Unit 3/6m4.3unit.pdf",
+                  "title": "Grade 6 Module 4 Unit 3 Unit",
+                  "description": "Grade 6 Module 4 Unit 3 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-6-ela-module-4-pdf/Unit 3/6m4.3unit.pdf"
+                    }
+                  ]
+                },
+                {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-6-ela-module-4-unit-3-lesson-1",
                   "title": "Lesson 1",
@@ -39587,6 +40182,23 @@
                 "description": null
               },
               "children": [
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-7-ela-module-1-pdf/Unit 1/7m1.1unit.pdf",
+                  "title": "Grade 7 Module 1 Unit 1 Unit",
+                  "description": "Grade 7 Module 1 Unit 1 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-7-ela-module-1-pdf/Unit 1/7m1.1unit.pdf"
+                    }
+                  ]
+                },
                 {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-7-ela-module-1-unit-1-lesson-1",
@@ -40638,6 +41250,23 @@
                 "description": null
               },
               "children": [
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-7-ela-module-1-pdf/Unit 3/7m1.3unit.pdf",
+                  "title": "Grade 7 Module 1 Unit 3 Unit",
+                  "description": "Grade 7 Module 1 Unit 3 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-7-ela-module-1-pdf/Unit 3/7m1.3unit.pdf"
+                    }
+                  ]
+                },
                 {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-7-module-1-unit-3-lesson-1",
@@ -47380,6 +48009,23 @@
               },
               "children": [
                 {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-8-ela-module-1-pdf/Unit 1/8m1.1unit.pdf",
+                  "title": "Grade 8 Module 1 Unit 1 Unit",
+                  "description": "Grade 8 Module 1 Unit 1 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-8-ela-module-1-pdf/Unit 1/8m1.1unit.pdf"
+                    }
+                  ]
+                },
+                {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-8-module-1-unit-1-lesson-1",
                   "title": "Lesson 1",
@@ -47827,6 +48473,23 @@
                 "description": null
               },
               "children": [
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-8-ela-module-1-pdf/Unit 2/8m1.2unit.pdf",
+                  "title": "Grade 8 Module 1 Unit 2 Unit",
+                  "description": "Grade 8 Module 1 Unit 2 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-8-ela-module-1-pdf/Unit 2/8m1.2unit.pdf"
+                    }
+                  ]
+                },
                 {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-8-ela-module-1-unit-2-lesson-1",
@@ -48461,6 +49124,23 @@
                 "description": null
               },
               "children": [
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-8-ela-module-1-pdf/Unit 3/8m1.3unit.pdf",
+                  "title": "Grade 8 Module 1 Unit 3 Unit",
+                  "description": "Grade 8 Module 1 Unit 3 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-8-ela-module-1-pdf/Unit 3/8m1.3unit.pdf"
+                    }
+                  ]
+                },
                 {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-8-ela-module-1-unit-3-lesson-1",
@@ -53866,6 +54546,23 @@
               },
               "children": [
                 {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-8-ela-module-4-pdf/Unit 1/8m4.1unit.pdf",
+                  "title": "Grade 8 Module 4 Unit 1 Unit",
+                  "description": "Grade 8 Module 4 Unit 1 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-8-ela-module-4-pdf/Unit 1/8m4.1unit.pdf"
+                    }
+                  ]
+                },
+                {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-8-ela-module-4-unit-1-lesson-1",
                   "title": "Lesson 1",
@@ -54344,6 +55041,23 @@
                 "description": null
               },
               "children": [
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-8-ela-module-4-pdf/Unit 2/8m4.2unit.pdf",
+                  "title": "Grade 8 Module 4 Unit 2 Unit",
+                  "description": "Grade 8 Module 4 Unit 2 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-8-ela-module-4-pdf/Unit 2/8m4.2unit.pdf"
+                    }
+                  ]
+                },
                 {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-8-ela-module-4-unit-2-lesson-1",
@@ -54885,6 +55599,23 @@
                 "description": null
               },
               "children": [
+                {
+                  "kind": "document",
+                  "source_id": "chefdata/pdfs/grade-8-ela-module-4-pdf/Unit 3/8m4.3unit.pdf",
+                  "title": "Grade 8 Module 4 Unit 3 Unit",
+                  "description": "Grade 8 Module 4 Unit 3 Unit",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "chefdata/pdfs/grade-8-ela-module-4-pdf/Unit 3/8m4.3unit.pdf"
+                    }
+                  ]
+                },
                 {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-8-ela-module-4-unit-3-lesson-1",
