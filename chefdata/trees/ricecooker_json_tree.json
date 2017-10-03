@@ -9169,26 +9169,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-3-ela-module-1-pdf/3m1.assessments.pdf",
-              "title": "Grade 3 Module 1",
-              "description": "Grade 3 Module 1",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-3-ela-module-1-pdf/3m1.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-3-ela-module-1-pdf/3m1.overview.pdf",
-              "title": "Grade 3 Module 1",
-              "description": "Grade 3 Module 1",
+              "title": "Grade 3 Module 1 Overview",
+              "description": "Grade 3 Module 1 Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -9203,9 +9186,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-1-pdf/3m1.assessments.pdf",
+              "title": "Grade 3 Module 1 Assessments",
+              "description": "Grade 3 Module 1 Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-1-pdf/3m1.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-3-ela-module-1-pdf/3m1.performance.pdf",
-              "title": "Grade 3 Module 1",
-              "description": "Grade 3 Module 1",
+              "title": "Grade 3 Module 1 Performance",
+              "description": "Grade 3 Module 1 Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -10569,8 +10569,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-3-ela-module-2a-pdf/3m2a.assessments.pdf",
-              "title": "Grade 3 Module 2A",
-              "description": "Grade 3 Module 2A",
+              "title": "Grade 3 Module 2A Assessments",
+              "description": "Grade 3 Module 2A Assessments",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -10586,8 +10586,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-3-ela-module-2a-pdf/3m2a.performance.pdf",
-              "title": "Grade 3 Module 2A",
-              "description": "Grade 3 Module 2A",
+              "title": "Grade 3 Module 2A Performance",
+              "description": "Grade 3 Module 2A Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -11769,26 +11769,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-3-ela-module-2b-pdf/3m2b.assessment.pdf",
-              "title": "Grade 3 Module 2B",
-              "description": "Grade 3 Module 2B",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-3-ela-module-2b-pdf/3m2b.assessment.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-3-ela-module-2b-pdf/3m2b.overview.pdf",
-              "title": "Grade 3 Module 2B",
-              "description": "Grade 3 Module 2B",
+              "title": "Grade 3 Module 2B Overview",
+              "description": "Grade 3 Module 2B Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -11803,9 +11786,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-2b-pdf/3m2b.assessment.pdf",
+              "title": "Grade 3 Module 2B Assessment",
+              "description": "Grade 3 Module 2B Assessment",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-2b-pdf/3m2b.assessment.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-3-ela-module-2b-pdf/3m2b.performance.pdf",
-              "title": "Grade 3 Module 2B",
-              "description": "Grade 3 Module 2B",
+              "title": "Grade 3 Module 2B Performance",
+              "description": "Grade 3 Module 2B Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -13204,26 +13204,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-3-ela-module-3a-pdf/3m3a.assessments.pdf",
-              "title": "Grade 3 Module 3A",
-              "description": "Grade 3 Module 3A",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-3-ela-module-3a-pdf/3m3a.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-3-ela-module-3a-pdf/3m3a.overview.pdf",
-              "title": "Grade 3 Module 3A",
-              "description": "Grade 3 Module 3A",
+              "title": "Grade 3 Module 3A Overview",
+              "description": "Grade 3 Module 3A Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -13238,9 +13221,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-3a-pdf/3m3a.assessments.pdf",
+              "title": "Grade 3 Module 3A Assessments",
+              "description": "Grade 3 Module 3A Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-3a-pdf/3m3a.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-3-ela-module-3a-pdf/3m3a.performance.pdf",
-              "title": "Grade 3 Module 3A",
-              "description": "Grade 3 Module 3A",
+              "title": "Grade 3 Module 3A Performance",
+              "description": "Grade 3 Module 3A Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -14484,26 +14484,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-3-ela-module-3b-pdf/3m3b.assessments.pdf",
-              "title": "Grade 3 Module 3B",
-              "description": "Grade 3 Module 3B",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-3-ela-module-3b-pdf/3m3b.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-3-ela-module-3b-pdf/3m3b.overview.pdf",
-              "title": "Grade 3 Module 3B",
-              "description": "Grade 3 Module 3B",
+              "title": "Grade 3 Module 3B Overview",
+              "description": "Grade 3 Module 3B Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -14518,9 +14501,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-3b-pdf/3m3b.assessments.pdf",
+              "title": "Grade 3 Module 3B Assessments",
+              "description": "Grade 3 Module 3B Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-3b-pdf/3m3b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-3-ela-module-3b-pdf/3m3b.performance.pdf",
-              "title": "Grade 3 Module 3B",
-              "description": "Grade 3 Module 3B",
+              "title": "Grade 3 Module 3B Performance",
+              "description": "Grade 3 Module 3B Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -15702,26 +15702,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-3-ela-module-4-pdf/3m4.assessments.pdf",
-              "title": "Grade 3 Module 4",
-              "description": "Grade 3 Module 4",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-3-ela-module-4-pdf/3m4.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-3-ela-module-4-pdf/3m4.overview.pdf",
-              "title": "Grade 3 Module 4",
-              "description": "Grade 3 Module 4",
+              "title": "Grade 3 Module 4 Overview",
+              "description": "Grade 3 Module 4 Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -15736,9 +15719,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-3-ela-module-4-pdf/3m4.assessments.pdf",
+              "title": "Grade 3 Module 4 Assessments",
+              "description": "Grade 3 Module 4 Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-3-ela-module-4-pdf/3m4.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-3-ela-module-4-pdf/3m4.performance.pdf",
-              "title": "Grade 3 Module 4",
-              "description": "Grade 3 Module 4",
+              "title": "Grade 3 Module 4 Performance",
+              "description": "Grade 3 Module 4 Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -17079,8 +17079,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-4-ela-module-1a-pdf/4M1A.texts.pdf",
-              "title": "Grade 4 ",
-              "description": "Grade 4 ",
+              "title": "Grade 4  Texts",
+              "description": "Grade 4  Texts",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -18097,26 +18097,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/ela-g4-m1b-pdf/4m1b.assessments.pdf",
-              "title": "Grade 4 Module 1B",
-              "description": "Grade 4 Module 1B",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/ela-g4-m1b-pdf/4m1b.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/ela-g4-m1b-pdf/4m1b.overview.pdf",
-              "title": "Grade 4 Module 1B",
-              "description": "Grade 4 Module 1B",
+              "title": "Grade 4 Module 1B Overview",
+              "description": "Grade 4 Module 1B Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -18131,9 +18114,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/ela-g4-m1b-pdf/4m1b.assessments.pdf",
+              "title": "Grade 4 Module 1B Assessments",
+              "description": "Grade 4 Module 1B Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-g4-m1b-pdf/4m1b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/ela-g4-m1b-pdf/4m1b.performance.pdf",
-              "title": "Grade 4 Module 1B",
-              "description": "Grade 4 Module 1B",
+              "title": "Grade 4 Module 1B Performance",
+              "description": "Grade 4 Module 1B Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -19302,8 +19302,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-4-ela-module-2a-pdf/4m2a.assessment.pdf",
-              "title": "Grade 4 Module 2A",
-              "description": "Grade 4 Module 2A",
+              "title": "Grade 4 Module 2A Assessment",
+              "description": "Grade 4 Module 2A Assessment",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -19319,8 +19319,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-4-ela-module-2a-pdf/4m2a.performance.pdf",
-              "title": "Grade 4 Module 2A",
-              "description": "Grade 4 Module 2A",
+              "title": "Grade 4 Module 2A Performance",
+              "description": "Grade 4 Module 2A Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -20657,26 +20657,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-4-ela-module-2b-pdf/4m2b.assessments.pdf",
-              "title": "Grade 4 Module 2B",
-              "description": "Grade 4 Module 2B",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-4-ela-module-2b-pdf/4m2b.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-4-ela-module-2b-pdf/4m2b.overview.pdf",
-              "title": "Grade 4 Module 2B",
-              "description": "Grade 4 Module 2B",
+              "title": "Grade 4 Module 2B Overview",
+              "description": "Grade 4 Module 2B Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -20691,9 +20674,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-4-ela-module-2b-pdf/4m2b.assessments.pdf",
+              "title": "Grade 4 Module 2B Assessments",
+              "description": "Grade 4 Module 2B Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-4-ela-module-2b-pdf/4m2b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-4-ela-module-2b-pdf/4m2b.performance.pdf",
-              "title": "Grade 4 Module 2B",
-              "description": "Grade 4 Module 2B",
+              "title": "Grade 4 Module 2B Performance",
+              "description": "Grade 4 Module 2B Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -21999,26 +21999,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-4-ela-module-3a-pdf/4m3a.assessments.pdf",
-              "title": "Grade 4 Module 3A",
-              "description": "Grade 4 Module 3A",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-4-ela-module-3a-pdf/4m3a.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-4-ela-module-3a-pdf/4m3a.overview.pdf",
-              "title": "Grade 4 Module 3A",
-              "description": "Grade 4 Module 3A",
+              "title": "Grade 4 Module 3A Overview",
+              "description": "Grade 4 Module 3A Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -22033,9 +22016,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-4-ela-module-3a-pdf/4m3a.assessments.pdf",
+              "title": "Grade 4 Module 3A Assessments",
+              "description": "Grade 4 Module 3A Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-4-ela-module-3a-pdf/4m3a.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-4-ela-module-3a-pdf/4m3a.performance.pdf",
-              "title": "Grade 4 Module 3A",
-              "description": "Grade 4 Module 3A",
+              "title": "Grade 4 Module 3A Performance",
+              "description": "Grade 4 Module 3A Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -23186,26 +23186,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-4-ela-module-3b-pdf/4m3b.assessments.pdf",
-              "title": "Grade 4 Module 3B",
-              "description": "Grade 4 Module 3B",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-4-ela-module-3b-pdf/4m3b.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-4-ela-module-3b-pdf/4m3b.overview.pdf",
-              "title": "Grade 4 Module 3B",
-              "description": "Grade 4 Module 3B",
+              "title": "Grade 4 Module 3B Overview",
+              "description": "Grade 4 Module 3B Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -23220,9 +23203,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-4-ela-module-3b-pdf/4m3b.assessments.pdf",
+              "title": "Grade 4 Module 3B Assessments",
+              "description": "Grade 4 Module 3B Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-4-ela-module-3b-pdf/4m3b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-4-ela-module-3b-pdf/4m3b.performance.pdf",
-              "title": "Grade 4 Module 3B",
-              "description": "Grade 4 Module 3B",
+              "title": "Grade 4 Module 3B Performance",
+              "description": "Grade 4 Module 3B Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -24342,26 +24342,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-4-ela-module-4-pdf/4m4.assessments.pdf",
-              "title": "Grade 4 Module 4",
-              "description": "Grade 4 Module 4",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-4-ela-module-4-pdf/4m4.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-4-ela-module-4-pdf/4m4.overview.pdf",
-              "title": "Grade 4 Module 4",
-              "description": "Grade 4 Module 4",
+              "title": "Grade 4 Module 4 Overview",
+              "description": "Grade 4 Module 4 Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -24376,9 +24359,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-4-ela-module-4-pdf/4m4.assessments.pdf",
+              "title": "Grade 4 Module 4 Assessments",
+              "description": "Grade 4 Module 4 Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-4-ela-module-4-pdf/4m4.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-4-ela-module-4-pdf/4m4.performance.pdf",
-              "title": "Grade 4 Module 4",
-              "description": "Grade 4 Module 4",
+              "title": "Grade 4 Module 4 Performance",
+              "description": "Grade 4 Module 4 Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -25719,8 +25719,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-5-ela-module-1-pdf/Module Level Documents/5m1.assessments.pdf",
-              "title": "Grade 5 Module 1",
-              "description": "Grade 5 Module 1",
+              "title": "Grade 5 Module 1 Assessments",
+              "description": "Grade 5 Module 1 Assessments",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -25736,8 +25736,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-5-ela-module-1-pdf/Module Level Documents/5m1.performance.pdf",
-              "title": "Grade 5 Module 1",
-              "description": "Grade 5 Module 1",
+              "title": "Grade 5 Module 1 Performance",
+              "description": "Grade 5 Module 1 Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -27194,8 +27194,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-5-ela-module-2a-pdf/5m2a.assessments.pdf",
-              "title": "Grade 5 Module 2A",
-              "description": "Grade 5 Module 2A",
+              "title": "Grade 5 Module 2A Assessments",
+              "description": "Grade 5 Module 2A Assessments",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -27211,8 +27211,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-5-ela-module-2a-pdf/5m2a.performance.pdf",
-              "title": "Grade 5 Module 2A",
-              "description": "Grade 5 Module 2A",
+              "title": "Grade 5 Module 2A Performance",
+              "description": "Grade 5 Module 2A Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -28518,26 +28518,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-5-ela-module-2b-pdf/5m2b.assessments.pdf",
-              "title": "Grade 5 Module 2B",
-              "description": "Grade 5 Module 2B",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-5-ela-module-2b-pdf/5m2b.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-5-ela-module-2b-pdf/5m2b.overview.pdf",
-              "title": "Grade 5 Module 2B",
-              "description": "Grade 5 Module 2B",
+              "title": "Grade 5 Module 2B Overview",
+              "description": "Grade 5 Module 2B Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -28552,9 +28535,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-5-ela-module-2b-pdf/5m2b.assessments.pdf",
+              "title": "Grade 5 Module 2B Assessments",
+              "description": "Grade 5 Module 2B Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-5-ela-module-2b-pdf/5m2b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-5-ela-module-2b-pdf/5m2b.performance.pdf",
-              "title": "Grade 5 Module 2B",
-              "description": "Grade 5 Module 2B",
+              "title": "Grade 5 Module 2B Performance",
+              "description": "Grade 5 Module 2B Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -29860,26 +29860,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-5-ela-module-3a-pdf/5m3a.assessments.pdf",
-              "title": "Grade 5 Module 3A",
-              "description": "Grade 5 Module 3A",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-5-ela-module-3a-pdf/5m3a.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-5-ela-module-3a-pdf/5m3a.overview.pdf",
-              "title": "Grade 5 Module 3A",
-              "description": "Grade 5 Module 3A",
+              "title": "Grade 5 Module 3A Overview",
+              "description": "Grade 5 Module 3A Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -29894,9 +29877,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-5-ela-module-3a-pdf/5m3a.assessments.pdf",
+              "title": "Grade 5 Module 3A Assessments",
+              "description": "Grade 5 Module 3A Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-5-ela-module-3a-pdf/5m3a.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-5-ela-module-3a-pdf/5m3a.performance.pdf",
-              "title": "Grade 5 Module 3A",
-              "description": "Grade 5 Module 3A",
+              "title": "Grade 5 Module 3A Performance",
+              "description": "Grade 5 Module 3A Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -31171,26 +31171,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-5-ela-module-3b-pdf/5m3b.assessments.pdf",
-              "title": "Grade 5 Module 3B",
-              "description": "Grade 5 Module 3B",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-5-ela-module-3b-pdf/5m3b.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-5-ela-module-3b-pdf/5m3b.overview.pdf",
-              "title": "Grade 5 Module 3B",
-              "description": "Grade 5 Module 3B",
+              "title": "Grade 5 Module 3B Overview",
+              "description": "Grade 5 Module 3B Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -31205,9 +31188,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-5-ela-module-3b-pdf/5m3b.assessments.pdf",
+              "title": "Grade 5 Module 3B Assessments",
+              "description": "Grade 5 Module 3B Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-5-ela-module-3b-pdf/5m3b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-5-ela-module-3b-pdf/5m3b.performance.pdf",
-              "title": "Grade 5 Module 3B",
-              "description": "Grade 5 Module 3B",
+              "title": "Grade 5 Module 3B Performance",
+              "description": "Grade 5 Module 3B Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -32234,26 +32234,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-5-ela-module-4-pdf/5m4.assessments.pdf",
-              "title": "Grade 5 Module 4",
-              "description": "Grade 5 Module 4",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-5-ela-module-4-pdf/5m4.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-5-ela-module-4-pdf/5m4.overview.pdf",
-              "title": "Grade 5 Module 4",
-              "description": "Grade 5 Module 4",
+              "title": "Grade 5 Module 4 Overview",
+              "description": "Grade 5 Module 4 Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -32268,9 +32251,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-5-ela-module-4-pdf/5m4.assessments.pdf",
+              "title": "Grade 5 Module 4 Assessments",
+              "description": "Grade 5 Module 4 Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-5-ela-module-4-pdf/5m4.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-5-ela-module-4-pdf/5m4.performance.pdf",
-              "title": "Grade 5 Module 4",
-              "description": "Grade 5 Module 4",
+              "title": "Grade 5 Module 4 Performance",
+              "description": "Grade 5 Module 4 Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -33470,8 +33470,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-1-pdf/Module Level Documents/6m1.assessments.pdf",
-              "title": "Grade 6 Module 1",
-              "description": "Grade 6 Module 1",
+              "title": "Grade 6 Module 1 Assessments",
+              "description": "Grade 6 Module 1 Assessments",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -33487,8 +33487,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-1-pdf/Module Level Documents/6m1.performance.pdf",
-              "title": "Grade 6 Module 1",
-              "description": "Grade 6 Module 1",
+              "title": "Grade 6 Module 1 Performance",
+              "description": "Grade 6 Module 1 Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -33504,8 +33504,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-1-pdf/Module Level Documents/6m1.texts.pdf",
-              "title": "Grade 6 Module 1",
-              "description": "Grade 6 Module 1",
+              "title": "Grade 6 Module 1 Texts",
+              "description": "Grade 6 Module 1 Texts",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -34862,26 +34862,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-6-ela-module-2a-pdf/Module Level/6m2a.assessments.pdf",
-              "title": "Grade 6 Module 2A",
-              "description": "Grade 6 Module 2A",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-6-ela-module-2a-pdf/Module Level/6m2a.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-2a-pdf/Module Level/6m2a.overview.pdf",
-              "title": "Grade 6 Module 2A",
-              "description": "Grade 6 Module 2A",
+              "title": "Grade 6 Module 2A Overview",
+              "description": "Grade 6 Module 2A Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -34896,9 +34879,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-2a-pdf/Module Level/6m2a.assessments.pdf",
+              "title": "Grade 6 Module 2A Assessments",
+              "description": "Grade 6 Module 2A Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-2a-pdf/Module Level/6m2a.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-2a-pdf/Module Level/6m2a.performance.pdf",
-              "title": "Grade 6 Module 2A",
-              "description": "Grade 6 Module 2A",
+              "title": "Grade 6 Module 2A Performance",
+              "description": "Grade 6 Module 2A Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -34914,8 +34914,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-2a-pdf/Module Level/6m2a.texts.pdf",
-              "title": "Grade 6 Module 2A",
-              "description": "Grade 6 Module 2A",
+              "title": "Grade 6 Module 2A Texts",
+              "description": "Grade 6 Module 2A Texts",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -36159,26 +36159,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-6-ela-module-2b-pdf/6m2b.assessments.pdf",
-              "title": "Grade 6 Module 2B",
-              "description": "Grade 6 Module 2B",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-6-ela-module-2b-pdf/6m2b.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-2b-pdf/6m2b.overview.pdf",
-              "title": "Grade 6 Module 2B",
-              "description": "Grade 6 Module 2B",
+              "title": "Grade 6 Module 2B Overview",
+              "description": "Grade 6 Module 2B Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -36193,9 +36176,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-2b-pdf/6m2b.assessments.pdf",
+              "title": "Grade 6 Module 2B Assessments",
+              "description": "Grade 6 Module 2B Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-2b-pdf/6m2b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-2b-pdf/6m2b.performance.pdf",
-              "title": "Grade 6 Module 2B",
-              "description": "Grade 6 Module 2B",
+              "title": "Grade 6 Module 2B Performance",
+              "description": "Grade 6 Module 2B Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -36211,8 +36211,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-2b-pdf/6m2b.texts.pdf",
-              "title": "Grade 6 Module 2B",
-              "description": "Grade 6 Module 2B",
+              "title": "Grade 6 Module 2B Texts",
+              "description": "Grade 6 Module 2B Texts",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -37487,26 +37487,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-6-ela-module-3a-pdf/6m3a.assessments.pdf",
-              "title": "Grade 6 Module 3A",
-              "description": "Grade 6 Module 3A",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-6-ela-module-3a-pdf/6m3a.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-3a-pdf/6m3a.overview.pdf",
-              "title": "Grade 6 Module 3A",
-              "description": "Grade 6 Module 3A",
+              "title": "Grade 6 Module 3A Overview",
+              "description": "Grade 6 Module 3A Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -37521,9 +37504,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-3a-pdf/6m3a.assessments.pdf",
+              "title": "Grade 6 Module 3A Assessments",
+              "description": "Grade 6 Module 3A Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-3a-pdf/6m3a.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-3a-pdf/6m3a.performance.pdf",
-              "title": "Grade 6 Module 3A",
-              "description": "Grade 6 Module 3A",
+              "title": "Grade 6 Module 3A Performance",
+              "description": "Grade 6 Module 3A Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -37539,8 +37539,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-3a-pdf/6m3a.texts.pdf",
-              "title": "Grade 6 Module 3A",
-              "description": "Grade 6 Module 3A",
+              "title": "Grade 6 Module 3A Texts",
+              "description": "Grade 6 Module 3A Texts",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -38722,26 +38722,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-6-ela-module-3b-pdf/6m3b.assessments.pdf",
-              "title": "Grade 6 Module 3B",
-              "description": "Grade 6 Module 3B",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-6-ela-module-3b-pdf/6m3b.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-3b-pdf/6m3b.overview.pdf",
-              "title": "Grade 6 Module 3B",
-              "description": "Grade 6 Module 3B",
+              "title": "Grade 6 Module 3B Overview",
+              "description": "Grade 6 Module 3B Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -38756,9 +38739,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-3b-pdf/6m3b.assessments.pdf",
+              "title": "Grade 6 Module 3B Assessments",
+              "description": "Grade 6 Module 3B Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-3b-pdf/6m3b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-3b-pdf/6m3b.performance.pdf",
-              "title": "Grade 6 Module 3B",
-              "description": "Grade 6 Module 3B",
+              "title": "Grade 6 Module 3B Performance",
+              "description": "Grade 6 Module 3B Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -38774,8 +38774,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-3b-pdf/6m3b.texts.pdf",
-              "title": "Grade 6 Module 3B",
-              "description": "Grade 6 Module 3B",
+              "title": "Grade 6 Module 3B Texts",
+              "description": "Grade 6 Module 3B Texts",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -39957,26 +39957,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-6-ela-module-4-pdf/6m4.assessments.pdf",
-              "title": "Grade 6 Module 4",
-              "description": "Grade 6 Module 4",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-6-ela-module-4-pdf/6m4.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-4-pdf/6m4.overview.pdf",
-              "title": "Grade 6 Module 4",
-              "description": "Grade 6 Module 4",
+              "title": "Grade 6 Module 4 Overview",
+              "description": "Grade 6 Module 4 Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -39991,9 +39974,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-6-ela-module-4-pdf/6m4.assessments.pdf",
+              "title": "Grade 6 Module 4 Assessments",
+              "description": "Grade 6 Module 4 Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-6-ela-module-4-pdf/6m4.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-4-pdf/6m4.performance.pdf",
-              "title": "Grade 6 Module 4",
-              "description": "Grade 6 Module 4",
+              "title": "Grade 6 Module 4 Performance",
+              "description": "Grade 6 Module 4 Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -40009,8 +40009,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-6-ela-module-4-pdf/6m4.texts.pdf",
-              "title": "Grade 6 Module 4",
-              "description": "Grade 6 Module 4",
+              "title": "Grade 6 Module 4 Texts",
+              "description": "Grade 6 Module 4 Texts",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -41363,8 +41363,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-7-ela-module-1-pdf/Module Level Documents/7m1.assessments.pdf",
-              "title": "Grade 7 Module 1",
-              "description": "Grade 7 Module 1",
+              "title": "Grade 7 Module 1 Assessments",
+              "description": "Grade 7 Module 1 Assessments",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -41380,8 +41380,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-7-ela-module-1-pdf/Module Level Documents/7m1.performance.pdf",
-              "title": "Grade 7 Module 1",
-              "description": "Grade 7 Module 1",
+              "title": "Grade 7 Module 1 Performance",
+              "description": "Grade 7 Module 1 Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -41397,8 +41397,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-7-ela-module-1-pdf/Module Level Documents/7m1.texts.pdf",
-              "title": "Grade 7 Module 1",
-              "description": "Grade 7 Module 1",
+              "title": "Grade 7 Module 1 Texts",
+              "description": "Grade 7 Module 1 Texts",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -42707,26 +42707,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-7-ela-module-2a-pdf/Module Level/7m2a.assessments.pdf",
-              "title": "Grade 7 Module 2A",
-              "description": "Grade 7 Module 2A",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-7-ela-module-2a-pdf/Module Level/7m2a.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-7-ela-module-2a-pdf/Module Level/7m2a.overview.pdf",
-              "title": "Grade 7 Module 2A",
-              "description": "Grade 7 Module 2A",
+              "title": "Grade 7 Module 2A Overview",
+              "description": "Grade 7 Module 2A Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -42741,9 +42724,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-7-ela-module-2a-pdf/Module Level/7m2a.assessments.pdf",
+              "title": "Grade 7 Module 2A Assessments",
+              "description": "Grade 7 Module 2A Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-7-ela-module-2a-pdf/Module Level/7m2a.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-7-ela-module-2a-pdf/Module Level/7m2a.performance.pdf",
-              "title": "Grade 7 Module 2A",
-              "description": "Grade 7 Module 2A",
+              "title": "Grade 7 Module 2A Performance",
+              "description": "Grade 7 Module 2A Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -42759,8 +42759,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-7-ela-module-2a-pdf/Module Level/7m2a.texts.pdf",
-              "title": "Grade 7 Module 2A",
-              "description": "Grade 7 Module 2A",
+              "title": "Grade 7 Module 2A Texts",
+              "description": "Grade 7 Module 2A Texts",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -44004,26 +44004,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-7-ela-module-2b-pdf/7m2b.assessments.pdf",
-              "title": "Grade 7 Module 2B",
-              "description": "Grade 7 Module 2B",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-7-ela-module-2b-pdf/7m2b.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-7-ela-module-2b-pdf/7m2b.overview.pdf",
-              "title": "Grade 7 Module 2B",
-              "description": "Grade 7 Module 2B",
+              "title": "Grade 7 Module 2B Overview",
+              "description": "Grade 7 Module 2B Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -44038,9 +44021,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-7-ela-module-2b-pdf/7m2b.assessments.pdf",
+              "title": "Grade 7 Module 2B Assessments",
+              "description": "Grade 7 Module 2B Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-7-ela-module-2b-pdf/7m2b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-7-ela-module-2b-pdf/7m2b.performance.pdf",
-              "title": "Grade 7 Module 2B",
-              "description": "Grade 7 Module 2B",
+              "title": "Grade 7 Module 2B Performance",
+              "description": "Grade 7 Module 2B Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -44056,8 +44056,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-7-ela-module-2b-pdf/7m2b.texts.pdf",
-              "title": "Grade 7 Module 2B",
-              "description": "Grade 7 Module 2B",
+              "title": "Grade 7 Module 2B Texts",
+              "description": "Grade 7 Module 2B Texts",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -46809,26 +46809,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-7-ela-module-4a-pdf/7m4a.assessments.pdf",
-              "title": "Grade 7 Module 4A",
-              "description": "Grade 7 Module 4A",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-7-ela-module-4a-pdf/7m4a.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-7-ela-module-4a-pdf/7m4a.overview.pdf",
-              "title": "Grade 7 Module 4A",
-              "description": "Grade 7 Module 4A",
+              "title": "Grade 7 Module 4A Overview",
+              "description": "Grade 7 Module 4A Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -46843,9 +46826,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-7-ela-module-4a-pdf/7m4a.assessments.pdf",
+              "title": "Grade 7 Module 4A Assessments",
+              "description": "Grade 7 Module 4A Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-7-ela-module-4a-pdf/7m4a.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-7-ela-module-4a-pdf/7m4a.performance.pdf",
-              "title": "Grade 7 Module 4A",
-              "description": "Grade 7 Module 4A",
+              "title": "Grade 7 Module 4A Performance",
+              "description": "Grade 7 Module 4A Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -46861,8 +46861,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-7-ela-module-4a-pdf/7m4a.texts.pdf",
-              "title": "Grade 7 Module 4A",
-              "description": "Grade 7 Module 4A",
+              "title": "Grade 7 Module 4A Texts",
+              "description": "Grade 7 Module 4A Texts",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -48137,26 +48137,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-7-ela-module-4b-pdf/7m4b.assessments.pdf",
-              "title": "Grade 7 Module 4B",
-              "description": "Grade 7 Module 4B",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-7-ela-module-4b-pdf/7m4b.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-7-ela-module-4b-pdf/7m4b.overview.pdf",
-              "title": "Grade 7 Module 4B",
-              "description": "Grade 7 Module 4B",
+              "title": "Grade 7 Module 4B Overview",
+              "description": "Grade 7 Module 4B Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -48171,9 +48154,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-7-ela-module-4b-pdf/7m4b.assessments.pdf",
+              "title": "Grade 7 Module 4B Assessments",
+              "description": "Grade 7 Module 4B Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-7-ela-module-4b-pdf/7m4b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-7-ela-module-4b-pdf/7m4b.performance.pdf",
-              "title": "Grade 7 Module 4B",
-              "description": "Grade 7 Module 4B",
+              "title": "Grade 7 Module 4B Performance",
+              "description": "Grade 7 Module 4B Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -48189,8 +48189,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-7-ela-module-4b-pdf/7m4b.texts.pdf",
-              "title": "Grade 7 Module 4B",
-              "description": "Grade 7 Module 4B",
+              "title": "Grade 7 Module 4B Texts",
+              "description": "Grade 7 Module 4B Texts",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -49461,8 +49461,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-1-pdf/Module Level Documents/8m1.assessments.pdf",
-              "title": "Grade 8 Module 1",
-              "description": "Grade 8 Module 1",
+              "title": "Grade 8 Module 1 Assessments",
+              "description": "Grade 8 Module 1 Assessments",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -49478,8 +49478,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-1-pdf/Module Level Documents/8m1.performance.pdf",
-              "title": "Grade 8 Module 1",
-              "description": "Grade 8 Module 1",
+              "title": "Grade 8 Module 1 Performance",
+              "description": "Grade 8 Module 1 Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -49495,8 +49495,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-1-pdf/Module Level Documents/8m1.texts.pdf",
-              "title": "Grade 8 Module 1",
-              "description": "Grade 8 Module 1",
+              "title": "Grade 8 Module 1 Texts",
+              "description": "Grade 8 Module 1 Texts",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -50853,26 +50853,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-8-ela-module-2a-pdf/Module Level/8m2a.assessments.pdf",
-              "title": "Grade 8 Module 2A",
-              "description": "Grade 8 Module 2A",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-8-ela-module-2a-pdf/Module Level/8m2a.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-2a-pdf/Module Level/8m2a.overview.pdf",
-              "title": "Grade 8 Module 2A",
-              "description": "Grade 8 Module 2A",
+              "title": "Grade 8 Module 2A Overview",
+              "description": "Grade 8 Module 2A Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -50887,9 +50870,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-2a-pdf/Module Level/8m2a.assessments.pdf",
+              "title": "Grade 8 Module 2A Assessments",
+              "description": "Grade 8 Module 2A Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-2a-pdf/Module Level/8m2a.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-2a-pdf/Module Level/8m2a.performance.pdf",
-              "title": "Grade 8 Module 2A",
-              "description": "Grade 8 Module 2A",
+              "title": "Grade 8 Module 2A Performance",
+              "description": "Grade 8 Module 2A Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -50905,8 +50905,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-2a-pdf/Module Level/8m2a.texts.pdf",
-              "title": "Grade 8 Module 2A",
-              "description": "Grade 8 Module 2A",
+              "title": "Grade 8 Module 2A Texts",
+              "description": "Grade 8 Module 2A Texts",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -52212,26 +52212,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-8-ela-module-2b-pdf/8m2b.assessments.pdf",
-              "title": "Grade 8 Module 2B",
-              "description": "Grade 8 Module 2B",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-8-ela-module-2b-pdf/8m2b.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-2b-pdf/8m2b.overview.pdf",
-              "title": "Grade 8 Module 2B",
-              "description": "Grade 8 Module 2B",
+              "title": "Grade 8 Module 2B Overview",
+              "description": "Grade 8 Module 2B Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -52246,9 +52229,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-2b-pdf/8m2b.assessments.pdf",
+              "title": "Grade 8 Module 2B Assessments",
+              "description": "Grade 8 Module 2B Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-2b-pdf/8m2b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-2b-pdf/8m2b.performance.pdf",
-              "title": "Grade 8 Module 2B",
-              "description": "Grade 8 Module 2B",
+              "title": "Grade 8 Module 2B Performance",
+              "description": "Grade 8 Module 2B Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -52264,8 +52264,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-2b-pdf/8m2b.texts.pdf",
-              "title": "Grade 8 Module 2B",
-              "description": "Grade 8 Module 2B",
+              "title": "Grade 8 Module 2B Texts",
+              "description": "Grade 8 Module 2B Texts",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -53571,26 +53571,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-8-ela-module-3a-pdf/8m3a.assessments.pdf",
-              "title": "Grade 8 Module 3A",
-              "description": "Grade 8 Module 3A",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-8-ela-module-3a-pdf/8m3a.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-3a-pdf/8m3a.overview.pdf",
-              "title": "Grade 8 Module 3A",
-              "description": "Grade 8 Module 3A",
+              "title": "Grade 8 Module 3A Overview",
+              "description": "Grade 8 Module 3A Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -53605,9 +53588,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-3a-pdf/8m3a.assessments.pdf",
+              "title": "Grade 8 Module 3A Assessments",
+              "description": "Grade 8 Module 3A Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-3a-pdf/8m3a.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-3a-pdf/8m3a.performance.pdf",
-              "title": "Grade 8 Module 3A",
-              "description": "Grade 8 Module 3A",
+              "title": "Grade 8 Module 3A Performance",
+              "description": "Grade 8 Module 3A Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -53623,8 +53623,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-3a-pdf/8m3a.texts.pdf",
-              "title": "Grade 8 Module 3A",
-              "description": "Grade 8 Module 3A",
+              "title": "Grade 8 Module 3A Texts",
+              "description": "Grade 8 Module 3A Texts",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -54930,26 +54930,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-8-ela-module-3b-pdf/8m3b.assessments.pdf",
-              "title": "Grade 8 Module 3B",
-              "description": "Grade 8 Module 3B",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-8-ela-module-3b-pdf/8m3b.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-3b-pdf/8m3b.overview.pdf",
-              "title": "Grade 8 Module 3B",
-              "description": "Grade 8 Module 3B",
+              "title": "Grade 8 Module 3B Overview",
+              "description": "Grade 8 Module 3B Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -54964,9 +54947,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-3b-pdf/8m3b.assessments.pdf",
+              "title": "Grade 8 Module 3B Assessments",
+              "description": "Grade 8 Module 3B Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-3b-pdf/8m3b.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-3b-pdf/8m3b.performance.pdf",
-              "title": "Grade 8 Module 3B",
-              "description": "Grade 8 Module 3B",
+              "title": "Grade 8 Module 3B Performance",
+              "description": "Grade 8 Module 3B Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -54982,8 +54982,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-3b-pdf/8m3b.texts.pdf",
-              "title": "Grade 8 Module 3B",
-              "description": "Grade 8 Module 3B",
+              "title": "Grade 8 Module 3B Texts",
+              "description": "Grade 8 Module 3B Texts",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -56320,26 +56320,9 @@
           "children": [
             {
               "kind": "document",
-              "source_id": "chefdata/pdfs/grade-8-ela-module-4-pdf/8m4.assessments.pdf",
-              "title": "Grade 8 Module 4",
-              "description": "Grade 8 Module 4",
-              "license": {
-                "license_id": "CC BY-NC-SA",
-                "copyright_holder": "Engage NY",
-                "description": null
-              },
-              "files": [
-                {
-                  "file_type": "document",
-                  "path": "chefdata/pdfs/grade-8-ela-module-4-pdf/8m4.assessments.pdf"
-                }
-              ]
-            },
-            {
-              "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-4-pdf/8m4.overview.pdf",
-              "title": "Grade 8 Module 4",
-              "description": "Grade 8 Module 4",
+              "title": "Grade 8 Module 4 Overview",
+              "description": "Grade 8 Module 4 Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -56354,9 +56337,26 @@
             },
             {
               "kind": "document",
+              "source_id": "chefdata/pdfs/grade-8-ela-module-4-pdf/8m4.assessments.pdf",
+              "title": "Grade 8 Module 4 Assessments",
+              "description": "Grade 8 Module 4 Assessments",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/grade-8-ela-module-4-pdf/8m4.assessments.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-4-pdf/8m4.performance.pdf",
-              "title": "Grade 8 Module 4",
-              "description": "Grade 8 Module 4",
+              "title": "Grade 8 Module 4 Performance",
+              "description": "Grade 8 Module 4 Performance",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -56372,8 +56372,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-8-ela-module-4-pdf/8m4.texts.pdf",
-              "title": "Grade 8 Module 4",
-              "description": "Grade 8 Module 4",
+              "title": "Grade 8 Module 4 Texts",
+              "description": "Grade 8 Module 4 Texts",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
