@@ -2864,7 +2864,110 @@
                 "copyright_holder": "Engage NY",
                 "description": null
               },
-              "children": []
+              "children": [
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/5796/download/ckla_gk_soundcards.pdf",
+                  "title": "Kindergarten: Skills Sound Cards",
+                  "description": "Kindergarten: Skills Sound Cards (2.2 MB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/5796/download/ckla_gk_soundcards.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/5801/download/ckla_gk_soundposters.pdf",
+                  "title": "Kindergarten: Skills Sound Posters",
+                  "description": "Kindergarten: Skills Sound Posters (2.55 MB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/5801/download/ckla_gk_soundposters.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/5806/download/ckla_gk_chainingfolder.pdf",
+                  "title": "Kindergarten: Skills Chaining Folder",
+                  "description": "Kindergarten: Skills Chaining Folder (142 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/5806/download/ckla_gk_chainingfolder.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/5816/download/ckla_gk_smalllettercards.pdf",
+                  "title": "Kindergarten: Skills Small Letter Card Set",
+                  "description": "Kindergarten: Skills Small Letter Card Set (39.31 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/5816/download/ckla_gk_smalllettercards.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/5811/download/ckla_gk_largelettercards.pdf",
+                  "title": "Kindergarten: Skills Large Letter Card Set",
+                  "description": "Kindergarten: Skills Large Letter Card Set (211.41 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/5811/download/ckla_gk_largelettercards.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/5821/download/ckla_gk_blendingpicturecards.pdf",
+                  "title": "Kindergarten: Skills Blending Picture Cards",
+                  "description": "Kindergarten: Skills Blending Picture Cards (1.5 MB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/5821/download/ckla_gk_blendingpicturecards.pdf"
+                    }
+                  ]
+                }
+              ]
             },
             {
               "kind": "topic",
@@ -5804,7 +5907,93 @@
                 "copyright_holder": "Engage NY",
                 "description": null
               },
-              "children": []
+              "children": [
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/8381/download/ckla_g1_spellingcards.pdf",
+                  "title": "Grade 1: Skills Spelling Cards",
+                  "description": "Grade 1: Skills Spelling Cards (248.61 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/8381/download/ckla_g1_spellingcards.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/8386/download/ckla_g1_codefb-vowels.pdf",
+                  "title": "Grade 1: Skills Code Flip Book: Vowels",
+                  "description": "Grade 1: Skills Code Flip Book: Vowels (368.68 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/8386/download/ckla_g1_codefb-vowels.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/8391/download/ckla_g1_individualcodechart.pdf",
+                  "title": "Grade 1: Skills Individual Code Chart",
+                  "description": "Grade 1: Skills Individual Code Chart (1.25 MB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/8391/download/ckla_g1_individualcodechart.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/8396/download/ckla_g1_codefb-consonants.pdf",
+                  "title": "Grade 1: Skills Code Flip Book: Consonants",
+                  "description": "Grade 1: Skills Code Flip Book: Consonants (379.08 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/8396/download/ckla_g1_codefb-consonants.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/8401/download/ckla_g1_largecards.pdf",
+                  "title": "Grade 1: Skills Large Cards",
+                  "description": "Grade 1: Skills Large Cards (239.3 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/8401/download/ckla_g1_largecards.pdf"
+                    }
+                  ]
+                }
+              ]
             },
             {
               "kind": "topic",
@@ -8527,7 +8716,76 @@
                 "copyright_holder": "Engage NY",
                 "description": null
               },
-              "children": []
+              "children": [
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/8406/download/ckla_g2_spellingcardset.pdf",
+                  "title": "Grade 2: Skills Spelling Cards",
+                  "description": "Grade 2: Skills Spelling Cards (398.8 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/8406/download/ckla_g2_spellingcardset.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/8411/download/ckla_g2_vowels_fb.pdf",
+                  "title": "Grade 2: Skills Code Flip Book: Vowels",
+                  "description": "Grade 2: Skills Code Flip Book: Vowels (395.4 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/8411/download/ckla_g2_vowels_fb.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/8416/download/ckla_g2_consonants_fb.pdf",
+                  "title": "Grade 2: Skills Code Flip Book: Consonants",
+                  "description": "Grade 2: Skills Code Flip Book: Consonants (445.02 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/8416/download/ckla_g2_consonants_fb.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/8421/download/ckla_g2_individualcodechart.pdf",
+                  "title": "Grade 2: Skills Individual Code Chart",
+                  "description": "Grade 2: Skills Individual Code Chart (239.81 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/8421/download/ckla_g2_individualcodechart.pdf"
+                    }
+                  ]
+                }
+              ]
             },
             {
               "kind": "topic",
@@ -8540,7 +8798,25 @@
                 "copyright_holder": "Engage NY",
                 "description": null
               },
-              "children": []
+              "children": [
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/11466/download/ckla_g2_arg.pdf",
+                  "title": "Grade 2: Skills Assessment and Remediation Guide",
+                  "description": "Grade 2: Skills Assessment and Remediation Guide (12.42 MB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/11466/download/ckla_g2_arg.pdf"
+                    }
+                  ]
+                }
+              ]
             },
             {
               "kind": "topic",
@@ -8554,6 +8830,23 @@
                 "description": null
               },
               "children": [
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/10791/download/ckla_g2_u1_tg_replacementpages.pdf",
+                  "title": "Grade 2: Skills Unit 1 Replacement Packet: Assessment and Placement",
+                  "description": "Grade 2: Skills Unit 1 Replacement Packet: Assessment and Placement (394.58 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/10791/download/ckla_g2_u1_tg_replacementpages.pdf"
+                    }
+                  ]
+                },
                 {
                   "kind": "topic",
                   "source_id": "https://www.engageny.org/resource/grade-2-skills-unit-1-reader-cat-bandit",
@@ -72012,7 +72305,76 @@
                 "copyright_holder": "Engage NY",
                 "description": null
               },
-              "children": []
+              "children": [
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/89456/download/rc-unit-plan-g11-12-promised-land.pdf",
+                  "title": "Reading Closely Unit Plan \u2013 Grades 11-12: Promised Land",
+                  "description": "Reading Closely Unit Plan \u2013 Grades 11-12: Promised Land (1.53 MB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/89456/download/rc-unit-plan-g11-12-promised-land.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/89461/download/rc-unit-texts-g11-12-promised-land.pdf",
+                  "title": "Reading Closely Unit Texts \u2013 Grades 11-12: Promised Land",
+                  "description": "Reading Closely Unit Texts \u2013 Grades 11-12: Promised Land (276.95 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/89461/download/rc-unit-texts-g11-12-promised-land.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/89466/download/questioning-texts-jefferson.pdf",
+                  "title": "Questioning Texts \u2013 Jefferson",
+                  "description": "Questioning Texts \u2013 Jefferson (62.93 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/89466/download/questioning-texts-jefferson.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/89471/download/analyzing-details-jefferson.pdf",
+                  "title": "Analyzing Details - Jefferson",
+                  "description": "Analyzing Details - Jefferson (66.7 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/89471/download/analyzing-details-jefferson.pdf"
+                    }
+                  ]
+                }
+              ]
             },
             {
               "kind": "topic",
@@ -72025,7 +72387,76 @@
                 "copyright_holder": "Engage NY",
                 "description": null
               },
-              "children": []
+              "children": [
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/89611/download/rc-unit-plan-g11-12-lay-down-all-my-joys.pdf",
+                  "title": "Reading Closely Unit Plan \u2013 Grades 11-12: Lay Down All My Joys",
+                  "description": "Reading Closely Unit Plan \u2013 Grades 11-12: Lay Down All My Joys (1.58 MB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/89611/download/rc-unit-plan-g11-12-lay-down-all-my-joys.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/89641/download/rc-unit-texts-g11-12-lay-down-all-my-joys.pdf",
+                  "title": "Reading Closely Unit Texts \u2013 Grades 11-12: Lay Down All My Joys",
+                  "description": "Reading Closely Unit Texts \u2013 Grades 11-12: Lay Down All My Joys (759.95 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/89641/download/rc-unit-texts-g11-12-lay-down-all-my-joys.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/89651/download/questioning-texts-whitman.pdf",
+                  "title": "Questioning Texts \u2013 Whitman",
+                  "description": "Questioning Texts \u2013 Whitman (64.46 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/89651/download/questioning-texts-whitman.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/89661/download/analyzing-details-whitman.pdf",
+                  "title": "Analyzing Details \u2013 Whitman",
+                  "description": "Analyzing Details \u2013 Whitman (65.08 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/89661/download/analyzing-details-whitman.pdf"
+                    }
+                  ]
+                }
+              ]
             },
             {
               "kind": "topic",
@@ -72038,7 +72469,212 @@
                 "copyright_holder": "Engage NY",
                 "description": null
               },
-              "children": []
+              "children": [
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91951/download/ebc-criteria-checklist-i-g11-12.pdf",
+                  "title": "EBC Criteria Checklist I - G11-12",
+                  "description": "EBC Criteria Checklist I - G11-12 (145.46 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91951/download/ebc-criteria-checklist-i-g11-12.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91956/download/ebc-criteria-checklist-ii-g11-12.pdf",
+                  "title": "EBC Criteria Checklist II - G11-12",
+                  "description": "EBC Criteria Checklist II - G11-12 (156.76 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91956/download/ebc-criteria-checklist-ii-g11-12.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91961/download/ebc-unit-plan-g11.pdf",
+                  "title": "EBC Unit Plan - G11",
+                  "description": "EBC Unit Plan - G11 (536.69 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91961/download/ebc-unit-plan-g11.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91966/download/ebc-unit-text-g11-du-bois.pdf",
+                  "title": "EBC Unit Text - G11 Du Bois",
+                  "description": "EBC Unit Text - G11 Du Bois (354.21 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91966/download/ebc-unit-text-g11-du-bois.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91971/download/forming-ebc-model-du-bois.pdf",
+                  "title": "Forming EBC Model - Du Bois",
+                  "description": "Forming EBC Model - Du Bois (65.82 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91971/download/forming-ebc-model-du-bois.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91976/download/making-ebc-models-1-du-bois.pdf",
+                  "title": "Making EBC Models (1) - Du Bois",
+                  "description": "Making EBC Models (1) - Du Bois (161.57 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91976/download/making-ebc-models-1-du-bois.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91981/download/making-ebc-models-2-du-bois.pdf",
+                  "title": "Making EBC Models (2) - Du Bois",
+                  "description": "Making EBC Models (2) - Du Bois (175.29 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91981/download/making-ebc-models-2-du-bois.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91986/download/organizing-ebc-model-2-pts-du-bois.pdf",
+                  "title": "Organizing EBC Model (2 Pts) - Du Bois",
+                  "description": "Organizing EBC Model (2 Pts) - Du Bois (145.68 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91986/download/organizing-ebc-model-2-pts-du-bois.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91991/download/organizing-ebc-model-3-pts-du-bois.pdf",
+                  "title": "Organizing EBC Model (3 Pts) - Du Bois",
+                  "description": "Organizing EBC Model (3 Pts) - Du Bois (151.82 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91991/download/organizing-ebc-model-3-pts-du-bois.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91996/download/writing-ebc-handout-du-bois.pdf",
+                  "title": "Writing EBC Handout - Du Bois",
+                  "description": "Writing EBC Handout - Du Bois (47.76 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91996/download/writing-ebc-handout-du-bois.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/92001/download/written-ebc-model-1-du-bois.pdf",
+                  "title": "Written EBC Model (1) - Du Bois",
+                  "description": "Written EBC Model (1) - Du Bois (146.22 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/92001/download/written-ebc-model-1-du-bois.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/92006/download/written-ebc-model-2-du-bois.pdf",
+                  "title": "Written EBC Model (2) - Du Bois",
+                  "description": "Written EBC Model (2) - Du Bois (136.86 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/92006/download/written-ebc-model-2-du-bois.pdf"
+                    }
+                  ]
+                }
+              ]
             },
             {
               "kind": "topic",
@@ -72051,7 +72687,110 @@
                 "copyright_holder": "Engage NY",
                 "description": null
               },
-              "children": []
+              "children": [
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91831/download/ebc-unit-plan-g11-erdrich-obrien.pdf",
+                  "title": "EBC Unit Plan - G11 Erdrich Obrien",
+                  "description": "EBC Unit Plan - G11 Erdrich Obrien (553 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91831/download/ebc-unit-plan-g11-erdrich-obrien.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91836/download/forming-ebc-model-erdrich.pdf",
+                  "title": "Forming EBC Model - Erdrich",
+                  "description": "Forming EBC Model - Erdrich (67.19 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91836/download/forming-ebc-model-erdrich.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91846/download/making-ebc-model-erdrich.pdf",
+                  "title": "Making EBC Model - Erdrich",
+                  "description": "Making EBC Model - Erdrich (55.78 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91846/download/making-ebc-model-erdrich.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91851/download/organizing-ebc-2-pts-model-erdrich.pdf",
+                  "title": "Organizing EBC (2pts) Model - Erdrich",
+                  "description": "Organizing EBC (2pts) Model - Erdrich (66.12 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91851/download/organizing-ebc-2-pts-model-erdrich.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91861/download/writing-ebc-handout-erdrich.pdf",
+                  "title": "Writing EBC Handout - Erdrich",
+                  "description": "Writing EBC Handout - Erdrich (48.95 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91861/download/writing-ebc-handout-erdrich.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91866/download/written-ebc-model-erdrich.pdf",
+                  "title": "Written EBC Model - Erdrich",
+                  "description": "Written EBC Model - Erdrich (62.63 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91866/download/written-ebc-model-erdrich.pdf"
+                    }
+                  ]
+                }
+              ]
             },
             {
               "kind": "topic",
@@ -72064,7 +72803,25 @@
                 "copyright_holder": "Engage NY",
                 "description": null
               },
-              "children": []
+              "children": [
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/96256/download/research-unit-plan-g11-12.pdf",
+                  "title": "Research Unit Plan Grades 11-12",
+                  "description": "Research Unit Plan Grades 11-12 (659.71 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/96256/download/research-unit-plan-g11-12.pdf"
+                    }
+                  ]
+                }
+              ]
             },
             {
               "kind": "topic",
@@ -72077,7 +72834,42 @@
                 "copyright_holder": "Engage NY",
                 "description": null
               },
-              "children": []
+              "children": [
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/93941/download/argumentation-unit-plan-g11.pdf",
+                  "title": "Argumentation Unit Plan Grade 11",
+                  "description": "Argumentation Unit Plan Grade 11 (751.79 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/93941/download/argumentation-unit-plan-g11.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/93946/download/argumentation-text-sets-g11.pdf",
+                  "title": "Argumentation Text Sets Grade 11",
+                  "description": "Argumentation Text Sets Grade 11 (44.92 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/93946/download/argumentation-text-sets-g11.pdf"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -73469,7 +74261,76 @@
                 "copyright_holder": "Engage NY",
                 "description": null
               },
-              "children": []
+              "children": [
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/89716/download/rc-unit-plan-g12-life-steps-almost-straight.pdf",
+                  "title": "Reading Closely Unit Plan \u2013 Grade 12: Life Steps Almost Straight",
+                  "description": "Reading Closely Unit Plan \u2013 Grade 12: Life Steps Almost Straight (1.86 MB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/89716/download/rc-unit-plan-g12-life-steps-almost-straight.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/89721/download/rc-unit-texts-g12-life-steps-almost-straight.pdf",
+                  "title": "Reading Closely Unit Texts \u2013 Grade 12: Life Steps Almost Straight",
+                  "description": "Reading Closely Unit Texts \u2013 Grade 12: Life Steps Almost Straight (2.56 MB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/89721/download/rc-unit-texts-g12-life-steps-almost-straight.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/89726/download/questioning-texts-frankl.pdf",
+                  "title": "Questioning Texts \u2013 Frankl",
+                  "description": "Questioning Texts \u2013 Frankl (64.51 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/89726/download/questioning-texts-frankl.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/89731/download/analyzing-details-frankl.pdf",
+                  "title": "Analyzing Details \u2013 Frankl",
+                  "description": "Analyzing Details \u2013 Frankl (66.72 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/89731/download/analyzing-details-frankl.pdf"
+                    }
+                  ]
+                }
+              ]
             },
             {
               "kind": "topic",
@@ -73482,7 +74343,178 @@
                 "copyright_holder": "Engage NY",
                 "description": null
               },
-              "children": []
+              "children": [
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/92011/download/ebc-unit-plan-g12.pdf",
+                  "title": "EBC Unit Plan - G12",
+                  "description": "EBC Unit Plan - G12 (540.9 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/92011/download/ebc-unit-plan-g12.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/92016/download/ebc-unit-text-g12-clinton.pdf",
+                  "title": "EBC Unit Text - G12 - Clinton",
+                  "description": "EBC Unit Text - G12 - Clinton (364.82 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/92016/download/ebc-unit-text-g12-clinton.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/92021/download/ebc-unit-text-g12-reagan.pdf",
+                  "title": "EBC Unit Text - G12 - Reagan",
+                  "description": "EBC Unit Text - G12 - Reagan (338.46 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/92021/download/ebc-unit-text-g12-reagan.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/92026/download/forming-ebc-model-reagan.pdf",
+                  "title": "Forming EBC Model - Reagan",
+                  "description": "Forming EBC Model - Reagan (66.31 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/92026/download/forming-ebc-model-reagan.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/92031/download/making-ebc-models-1-reagan.pdf",
+                  "title": "Making EBC Models (1) - Reagan",
+                  "description": "Making EBC Models (1) - Reagan (103.23 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/92031/download/making-ebc-models-1-reagan.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/92036/download/making-ebc-models-2-reagan.pdf",
+                  "title": "Making EBC Models (2) - Reagan",
+                  "description": "Making EBC Models (2) - Reagan (107.06 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/92036/download/making-ebc-models-2-reagan.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/92041/download/organizing-ebc-models-clinton.pdf",
+                  "title": "Organizing EBC Models - Clinton",
+                  "description": "Organizing EBC Models - Clinton (103.17 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/92041/download/organizing-ebc-models-clinton.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/92046/download/writing-ebc-handout-clinton.pdf",
+                  "title": "Writing EBC Handout - Clinton",
+                  "description": "Writing EBC Handout - Clinton (47.51 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/92046/download/writing-ebc-handout-clinton.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/92051/download/written-ebc-model-1-clinton.pdf",
+                  "title": "Written EBC Model (1) - Clinton",
+                  "description": "Written EBC Model (1) - Clinton (57.36 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/92051/download/written-ebc-model-1-clinton.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/92056/download/written-ebc-model-2-clinton.pdf",
+                  "title": "Written EBC Model (2) - Clinton",
+                  "description": "Written EBC Model (2) - Clinton (58.52 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/92056/download/written-ebc-model-2-clinton.pdf"
+                    }
+                  ]
+                }
+              ]
             },
             {
               "kind": "topic",
@@ -73495,7 +74527,144 @@
                 "copyright_holder": "Engage NY",
                 "description": null
               },
-              "children": []
+              "children": [
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91881/download/ebc-unit-plan-g12-carver.pdf",
+                  "title": "EBC Unit Plan - G12 Carver",
+                  "description": "EBC Unit Plan - G12 Carver (502.49 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91881/download/ebc-unit-plan-g12-carver.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91891/download/forming-ebc-model-carver.pdf",
+                  "title": "Forming EBC Model - Carver",
+                  "description": "Forming EBC Model - Carver (65.43 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91891/download/forming-ebc-model-carver.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91896/download/making-ebc-model-carver-1.pdf",
+                  "title": "Making EBC Model - Carver (1)",
+                  "description": "Making EBC Model - Carver (1) (59.62 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91896/download/making-ebc-model-carver-1.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91901/download/making-ebc-model-carver-2.pdf",
+                  "title": "Making EBC Model - Carver (2)",
+                  "description": "Making EBC Model - Carver (2) (63.78 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91901/download/making-ebc-model-carver-2.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91911/download/organizing-ebc-2-pts-model-carver.pdf",
+                  "title": "Organizing EBC (2 pts) Model - Carver",
+                  "description": "Organizing EBC (2 pts) Model - Carver (68.99 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91911/download/organizing-ebc-2-pts-model-carver.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91916/download/organizing-ebc-3-pts-model-carver.pdf",
+                  "title": "Organizing EBC (3 pts) Model - Carver",
+                  "description": "Organizing EBC (3 pts) Model - Carver (69.72 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91916/download/organizing-ebc-3-pts-model-carver.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91921/download/writing-ebc-handout-carver.pdf",
+                  "title": "Writing EBC Handout - Carver",
+                  "description": "Writing EBC Handout - Carver (47.9 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91921/download/writing-ebc-handout-carver.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/91931/download/written-ebc-model-carver.pdf",
+                  "title": "Written EBC Model - Carver",
+                  "description": "Written EBC Model - Carver (70.84 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/91931/download/written-ebc-model-carver.pdf"
+                    }
+                  ]
+                }
+              ]
             },
             {
               "kind": "topic",
@@ -73508,7 +74677,42 @@
                 "copyright_holder": "Engage NY",
                 "description": null
               },
-              "children": []
+              "children": [
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/93956/download/argumentation-unit-plan-g12.pdf",
+                  "title": "Argumentation Unit Plan Grade 12",
+                  "description": "Argumentation Unit Plan Grade 12 (754.42 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/93956/download/argumentation-unit-plan-g12.pdf"
+                    }
+                  ]
+                },
+                {
+                  "kind": "document",
+                  "source_id": "https://www.engageny.org/file/93961/download/argumentation-text-sets-g12.pdf",
+                  "title": "Argumentation Text Sets Grade 12",
+                  "description": "Argumentation Text Sets Grade 12 (43.69 KB)",
+                  "license": {
+                    "license_id": "CC BY-NC-SA",
+                    "copyright_holder": "Engage NY",
+                    "description": null
+                  },
+                  "files": [
+                    {
+                      "file_type": "document",
+                      "path": "https://www.engageny.org/file/93961/download/argumentation-text-sets-g12.pdf"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
