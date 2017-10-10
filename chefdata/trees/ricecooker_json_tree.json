@@ -17406,8 +17406,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/grade-4-ela-module-1a-pdf/4M1A.texts.pdf",
-              "title": "Grade 4  Texts",
-              "description": "Grade 4  Texts",
+              "title": "Grade 4 Texts",
+              "description": "Grade 4 Texts",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -74213,8 +74213,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/PDF Individual Files/ela-g12-m2-module-overview.pdf",
-              "title": "Grade 12 Module 2 Module Overview",
-              "description": "Grade 12 Module 2 Module Overview",
+              "title": "Grade 12 Module 2 Overview",
+              "description": "Grade 12 Module 2 Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -74256,8 +74256,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/PDF Individual Files/ela-g12-m3-module-overview.pdf",
-              "title": "Grade 12 Module 3 Module Overview",
-              "description": "Grade 12 Module 3 Module Overview",
+              "title": "Grade 12 Module 3 Overview",
+              "description": "Grade 12 Module 3 Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -74299,8 +74299,8 @@
             {
               "kind": "document",
               "source_id": "chefdata/pdfs/PDF Individual Files/ela-g12-m4-module-overview.pdf",
-              "title": "Grade 12 Module 4 Module Overview",
-              "description": "Grade 12 Module 4 Module Overview",
+              "title": "Grade 12 Module 4 Overview",
+              "description": "Grade 12 Module 4 Overview",
               "license": {
                 "license_id": "CC BY-NC-SA",
                 "copyright_holder": "Engage NY",
@@ -74338,7 +74338,484 @@
           "title": "Extension Module",
           "description": "In this 12th grade Extension Module, students can go deeper into analyzing arguments, as they outline, analyze, and evaluate the claims that Michelle Alexander makes in The New Jim Crow: Mass Incarceration in the Age of Colorblindness, paying attention to her use of rhetoric to convey her ideas. Please note that this 12th grade Extension Module is an extra module that has been developed as part of the 12th grade ELA modules; grades 9-11 do not have additional or extension modules. A full year of curriculum is available for 12th grade through modules 1-4.",
           "thumbnail": "https://www.engageny.org/sites/default/files/styles/medium/public/view-images/bigstock-high-school-students-working-o-66792256.jpg",
-          "children": []
+          "children": [
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/ela-grade-12-ext-module-overview.pdf",
+              "title": "Grade 12 Extension Module Overview",
+              "description": "Grade 12 Extension Module Overview",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/ela-grade-12-ext-module-overview.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Texts/ela-grade-12-ext-jim-crow-laws.pdf",
+              "title": "Grade 12 Extension Module Texts Jim Crow Laws",
+              "description": "Grade 12 Extension Module Texts Jim Crow Laws",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Texts/ela-grade-12-ext-jim-crow-laws.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l1.pdf",
+              "title": "Grade 12 Extension Module Lessons 1",
+              "description": "Grade 12 Extension Module Lessons 1",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l1.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l10.pdf",
+              "title": "Grade 12 Extension Module Lessons 10",
+              "description": "Grade 12 Extension Module Lessons 10",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l10.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l11.pdf",
+              "title": "Grade 12 Extension Module Lessons 11",
+              "description": "Grade 12 Extension Module Lessons 11",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l11.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l12.pdf",
+              "title": "Grade 12 Extension Module Lessons 12",
+              "description": "Grade 12 Extension Module Lessons 12",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l12.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l13.pdf",
+              "title": "Grade 12 Extension Module Lessons 13",
+              "description": "Grade 12 Extension Module Lessons 13",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l13.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l14.pdf",
+              "title": "Grade 12 Extension Module Lessons 14",
+              "description": "Grade 12 Extension Module Lessons 14",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l14.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l15.pdf",
+              "title": "Grade 12 Extension Module Lessons 15",
+              "description": "Grade 12 Extension Module Lessons 15",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l15.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l16.pdf",
+              "title": "Grade 12 Extension Module Lessons 16",
+              "description": "Grade 12 Extension Module Lessons 16",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l16.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l17.pdf",
+              "title": "Grade 12 Extension Module Lessons 17",
+              "description": "Grade 12 Extension Module Lessons 17",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l17.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l18.pdf",
+              "title": "Grade 12 Extension Module Lessons 18",
+              "description": "Grade 12 Extension Module Lessons 18",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l18.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l19.pdf",
+              "title": "Grade 12 Extension Module Lessons 19",
+              "description": "Grade 12 Extension Module Lessons 19",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l19.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l2.pdf",
+              "title": "Grade 12 Extension Module Lessons 2",
+              "description": "Grade 12 Extension Module Lessons 2",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l2.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l20.pdf",
+              "title": "Grade 12 Extension Module Lessons 20",
+              "description": "Grade 12 Extension Module Lessons 20",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l20.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l21.pdf",
+              "title": "Grade 12 Extension Module Lessons 21",
+              "description": "Grade 12 Extension Module Lessons 21",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l21.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l22.pdf",
+              "title": "Grade 12 Extension Module Lessons 22",
+              "description": "Grade 12 Extension Module Lessons 22",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l22.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l23.pdf",
+              "title": "Grade 12 Extension Module Lessons 23",
+              "description": "Grade 12 Extension Module Lessons 23",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l23.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l24.pdf",
+              "title": "Grade 12 Extension Module Lessons 24",
+              "description": "Grade 12 Extension Module Lessons 24",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l24.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l3.pdf",
+              "title": "Grade 12 Extension Module Lessons 3",
+              "description": "Grade 12 Extension Module Lessons 3",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l3.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l4.pdf",
+              "title": "Grade 12 Extension Module Lessons 4",
+              "description": "Grade 12 Extension Module Lessons 4",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l4.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l5.pdf",
+              "title": "Grade 12 Extension Module Lessons 5",
+              "description": "Grade 12 Extension Module Lessons 5",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l5.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l6.pdf",
+              "title": "Grade 12 Extension Module Lessons 6",
+              "description": "Grade 12 Extension Module Lessons 6",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l6.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l7.pdf",
+              "title": "Grade 12 Extension Module Lessons 7",
+              "description": "Grade 12 Extension Module Lessons 7",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l7.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l8.pdf",
+              "title": "Grade 12 Extension Module Lessons 8",
+              "description": "Grade 12 Extension Module Lessons 8",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l8.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l9.pdf",
+              "title": "Grade 12 Extension Module Lessons 9",
+              "description": "Grade 12 Extension Module Lessons 9",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Lessons/ela-grade-12.ext.l9.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Texts/ela-grade-12-ext-the-declaration-of-independence.pdf",
+              "title": "Grade 12 Extension Module Texts The Declaration Of Independence",
+              "description": "Grade 12 Extension Module Texts The Declaration Of Independence",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Texts/ela-grade-12-ext-the-declaration-of-independence.pdf"
+                }
+              ]
+            },
+            {
+              "kind": "document",
+              "source_id": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Texts/ela-grade-12-ext-the-emancipation-proclamation.pdf",
+              "title": "Grade 12 Extension Module Texts The Emancipation Proclamation",
+              "description": "Grade 12 Extension Module Texts The Emancipation Proclamation",
+              "license": {
+                "license_id": "CC BY-NC-SA",
+                "copyright_holder": "Engage NY",
+                "description": null
+              },
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "chefdata/pdfs/ela-grade-12-ext-module-pdf/Texts/ela-grade-12-ext-the-emancipation-proclamation.pdf"
+                }
+              ]
+            }
+          ]
         },
         {
           "kind": "topic",
